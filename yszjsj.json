@@ -4,16 +4,16 @@
   "vodApi": [
  {
       "id": 50,
-      "name": "快播云",
-      "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/",
+      "name": "土狗(爱优腾芒)",
+      "api": "http://vip-01.tgzy.cc/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": true
     },      
       
    {
       "id": 1,
-      "name": "电影牛",
-      "api": "https://www.dianyingn.com/api.php/provide/vod/at/xml/",
+      "name": "土狗(哔乐p西)",
+      "api": "http://vip-02.tgzy.cc/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": true
     },       
