@@ -3200,10 +3200,18 @@
 {"name":"ELEVEN SPORTS 2","urls":["http://211.23.114.106:8567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8"]}
 ]}],
     "parses": [
-        {
+    {
+      "name": "json 全网影视",
+      "url": "https://json.zhongcaopick.com/jsonc/qwysjx.php?url="
+    }, 
+    {
+      "name": "json 聚多",
+      "url": "https://json.zhongcaopick.com/jsonc/qwysjx.php?url="
+    }, 
+    {
       "name": "ok解析",
       "url": "https://okjx.cc/?url="
-        },
+    },
     {
       "name": "parwix解析",
       "url": "https://jx.parwix.com:4433/player/?url="
@@ -3213,10 +3221,10 @@
       "url": "https://m2090.com/?url="
     }, 
     {
-      "name": "json全网影视",
-      "url": "https://json.zhongcaopick.com/jsonc/qwysjx.php?url="
+      "name": "kan365",
+      "url": "https://jiexi.kan365.xyz/?url="
     }, 
-    {
+   {
       "name": "纯净解析",
       "url": "https://z1.m1907.cn/?jx="
      } 
