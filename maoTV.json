@@ -3201,6 +3201,10 @@
 ]}],
     "parses": [
     {
+      "name": "全能VIP",
+      "url": "  https://jx.cxk8.com?v="
+    },
+    {
       "name": "ok解析",
       "url": "https://okjx.cc/?url="
     },
@@ -3209,14 +3213,10 @@
       "url": "https://m2090.com/?url="
     }, 
     {
-      "name": "kan365",
-      "url": "https://jiexi.kan365.xyz/?url="
-    }, 
-    {
       "name": "parwix解析",
       "url": "https://jx.parwix.com:4433/player/?url="
     }, 
-   {
+    {
       "name": "纯净解析",
       "url": "https://z1.m1907.cn/?jx="
      } 
