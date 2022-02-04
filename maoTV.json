@@ -3201,17 +3201,13 @@
 ]}],
     "parses": [
     {
-      "name": "17k云",
-      "url": "http://17kyun.com/api.php?url="
-    },
+      "name": "4433解析",
+      "url": "https://vip.parwix.com:4433/player/?url="
+    }, 
     {
       "name": "ok解析",
       "url": "https://okjx.cc/?url="
     },
-    {
-      "name": "猪蹄解析",
-      "url": "https://jx.iztyy.com/svip/?url="
-    }, 
     {
       "name": "2090解析",
       "url": "https://m2090.com/?url="
@@ -3220,6 +3216,10 @@
       "name": "parwix解析",
       "url": "https://jx.parwix.com:4433/player/?url="
     }, 
+    {
+      "name": "17k云",
+      "url": "http://17kyun.com/api.php?url="
+    },
     {
       "name": "全能VIP",
       "url": "https://jx.cxk8.com?v="
