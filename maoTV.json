@@ -3225,6 +3225,10 @@
       "url": "http://17kyun.com/api.php?url="
     },
     {
+      "name": "韭菜解析",
+      "url": "http://42.192.201.37:6621/jiucai.php?guanwang=anyi.wchulian.com.cn&url="
+    },
+    {
       "name": "全能VIP",
       "url": "https://jx.cxk8.com?v="
     },
