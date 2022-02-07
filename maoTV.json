@@ -1,12 +1,6 @@
 {
   "sites": [
   {
-    "key": "dmbs",
-    "name": "动漫巴士爬虫",
-    "type": 1,
-    "api": "http://pandown.pro/mao/dmbs.php"
-  },
-  {
     "key": "lezhu",
     "name": "乐猪爬虫",
     "type": 1,
