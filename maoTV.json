@@ -83,8 +83,8 @@
     "api": "https://www.mbomovie.com/api.php/provide/vod/at/xml"
   },
   {
-    "key": "袋熊影视",
-    "name": "袋熊影视",
+    "key": "kk看剧",
+    "name": "kk看剧",
     "type": 0,
     "api": "http://www.kkkanju.com/api.php/provide/vod/at/xml"
   },
@@ -117,10 +117,10 @@
     ]
   },
   {
-    "key": "我爱跟剧",
-    "name": "我爱跟剧",
+    "key": "6U",
+    "name": "6U",
     "type": 1,
-    "api": "http://www.52gen.com/api.php/provide/vod/",
+    "api": "http://zy.ataoju.com/inc/apijson_vod.php?pg=1",
     "playUrl": "",
     "categories": [
     "电影",
@@ -132,10 +132,10 @@
     ]
   },
   {
-    "key": "清莲影院",
-    "name": "清莲影院",
+    "key": "1920官采",
+    "name": "1920官采",
     "type": 1,
-    "api": "https://www.qinglyy.com/api.php/provide/vod/",
+    "api": "http://zy.1920i.com/api.php/provide/vod/",
     "playUrl": ""
   },
   {
@@ -194,10 +194,10 @@
     "playUrl":""
   },
   {
-    "key":"喵派对",
-    "name":"喵派对",
+    "key":"5060影院",
+    "name":"5060影院",
     "type":0,
-    "api":"https://zy.miao.party/api.php/provide/vod/at/xml",
+    "api":"https://app.linzhiyuan.xyz/api.php/provide/vod/at/xml",
     "playUrl":""
   },
   {
