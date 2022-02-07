@@ -3221,8 +3221,16 @@
     "url": "https://m2090.com/?url="
   },
   {
-    "name": "猪蹄解析",
+    "name": "猪蹄解析1",
+    "url": "https://api.iztyy.com/jiexi/?url="
+  },
+  {
+    "name": "猪蹄解析2",
     "url": "https://jx.iztyy.com/svip/?url="
+  },
+  {
+    "name": "猪蹄解析3",
+    "url": "https://jx.iztyy.com/Bei/?url="
   },
   {
     "name": "parwix解析",
