@@ -3214,6 +3214,10 @@
     "url": "https://vip.parwix.com:4433/player/?url="
   },
   {
+    "name": "影视屋解析",
+    "url": "https://svip.9080ysw.com/bidi.php?url="
+  },
+  {
     "name": "韭菜解析",
     "url": "http://42.192.201.37:6621/jiucai.php?guanwang=anyi.wchulian.com.cn&url="
   },
