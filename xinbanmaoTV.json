@@ -11,16 +11,6 @@
             "ext": "http://app.ybyyds.cn/mogai_api.php/v1.vod/"
  },
         {
-            "key": "csp_appys_影视阁TV",
-            "name": "影视阁TV",
-            "type": 3,
-            "api": "csp_AppYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://216.98.10.85/api.php/iptv/vod/"
- },
-        {
             "key": "csp_appys_TV酷影视APP",
             "name": "TV酷影视APP",
             "type": 3,
