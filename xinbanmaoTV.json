@@ -31,14 +31,14 @@
             "ext": "https://www.u23c.com/api.php/app/"
  },
         {
-            "key": "csp_appys_蓝光视频APP",
-            "name": "蓝光视频APP",
+            "key": "csp_appys_追剧猫APP",
+            "name": "追剧猫APP",
             "type": 3,
             "api": "csp_AppYs",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://vip.91iqiyi.com/mogai_api.php/v1.vod"
+            "ext": "http://tv.kmtvb.com/api.php/v1.vod"
  },
         {
             "key": "csp_appys_青蛙视频APP",
