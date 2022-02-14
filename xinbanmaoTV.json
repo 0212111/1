@@ -11,6 +11,16 @@
             "ext": "http://app.ybyyds.cn/mogai_api.php/v1.vod/"
  },
         {
+            "key": "csp_appys_TV酷影视APP",
+            "name": "TV酷影视APP",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.u23c.com/api.php/app/"
+ },
+        {
             "key": "csp_appys_木子电影APP",
             "name": "木子电影APP",
             "type": 3,
