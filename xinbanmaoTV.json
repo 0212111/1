@@ -1,5 +1,15 @@
 {
   "sites": [
+        {
+            "key": "csp_xpath_555",
+            "name": "555电影(网站)",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/xpath/555.json"
+        },
         {"key":"csp_xpath_ftyy","name":"饭团影院(网站)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://cncncloud.com/api/v3/file/source/3066608/%E9%A5%AD%E5%9B%A2%E5%BD%B1%E9%99%A2.json?sign=XkhkjQ0TSEa6fct-Iw5EtBkHX45tJj82ldYWqD98BSc%3D%3A0"},
         {"key":"喵派蓝光","name":"喵派对蓝光","type":1,"api":"https://maoyingshi-api.tvan.xyz/api.php/provide/vod/","playUrl":"https://vip.aiaine.com/api/?type=app&key=ESnBC3t7IxnnHAziyU&url=","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_appys_超级剧场","name":"超级剧场","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ccxg.xazhutu.com/xgapp.php/v1/"},
