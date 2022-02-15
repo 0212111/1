@@ -8,7 +8,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://tv.yjhan.com:4433/ruifenglb_api.php/v1.vod/"
+            "ext": "https://tv.yjhan.com:4433/ruifenglb_api.php/v1.vod"
  },
         {
             "key": "csp_appys_苍蓝4kAPP",
@@ -435,16 +435,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://www.913e.net/api.php/app/"
- },
-        {
-            "key": "csp_appys_瑞丰资源APP",
-            "name": "瑞丰资源APP",
-            "type": 3,
-            "api": "csp_AppYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://tv.yjhan.com:4433/ruifenglb_api.php/v1.vod"
  },
         {
             "key": "csp_appys_白菜追剧APP",
