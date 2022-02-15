@@ -1,8 +1,18 @@
 {
   "sites": [
         {
-            "key": "csp_appys_瑞风切片APP",
-            "name": "瑞风切片APP",
+            "key": "csp_appys_瑞丰资源APP",
+            "name": "瑞丰资源APP",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tv.yjhan.com:4433/ruifenglb_api.php/v1.vod/"
+ },
+        {
+            "key": "csp_appys_苍蓝4kAPP",
+            "name": "苍蓝4kAPP",
             "type": 3,
             "api": "csp_AppYs",
             "searchable": 1,
@@ -495,16 +505,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://51shipin.cc/mogai_api.php/v1.vod"
- },
-        {
-            "key": "csp_appys_苍蓝4kAPP",
-            "name": "苍蓝4kAPP",
-            "type": 3,
-            "api": "csp_AppYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://vip.ruifenglb.com:4433/api.php/app/"
  }
     ],
   "lives": [
