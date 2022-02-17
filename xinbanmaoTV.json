@@ -21,14 +21,14 @@
             "ext": "https://vip.ruifenglb.com:4433/api.php/app/"
  },
         {
-            "key": "csp_appys_奇怪视频APP",
-            "name": "奇怪视频APP",
+            "key": "csp_appys_飞扬TV",
+            "name": "飞扬TV",
             "type": 3,
             "api": "csp_AppYs",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://giguai.net/api.php/v1.vod"
+            "ext": "http://diancj.zhenfy.cn/api.php/Chengcheng/vod"
  },
         {
             "key": "csp_appys_思乐影视APP",
