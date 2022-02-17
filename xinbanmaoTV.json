@@ -31,6 +31,16 @@
             "ext": "http://diancj.zhenfy.cn/api.php/Chengcheng/vod"
  },
         {
+            "key": "csp_appys_叮当TV",
+            "name": "叮当TV",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://tv.hyddys.top/api.php/iptv/vod"
+ },
+        {
             "key": "csp_appys_思乐影视APP",
             "name": "思乐影视APP",
             "type": 3,
