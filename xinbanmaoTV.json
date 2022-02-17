@@ -31,14 +31,14 @@
             "ext": "http://baofu111.top/mogai_api.php/v1.vod"
  },
         {
-            "key": "csp_appys_多啦咪PRO APP",
-            "name": "多啦咪PRO APP",
+            "key": "csp_appys_雪人影视APP",
+            "name": "雪人影视APP",
             "type": 3,
             "api": "csp_AppYs",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://yuenos-pro.miyuen.cn/qingdoujiekou.php/v1.vod"
+            "ext": "https://zy.qd234.cn/mogai_api.php/v1.vod"
  },
         {
             "key": "csp_appys_飞扬TV",
