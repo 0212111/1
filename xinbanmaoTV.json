@@ -922,7 +922,7 @@
   "mgtv",
   "wasu"
   ],
-     "spider": "https://gitea.com/dukanyilunfanhua/ba/raw/branch/master/cstom_spider.jar",
+     "spider": "https://gitea.com/dukanyilunfanhua/sp/raw/branch/master/custom_spider.txt",
    "ijk":[
         {
             "group":"软解码",
