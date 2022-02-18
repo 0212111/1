@@ -11,14 +11,14 @@
             "ext": "http://tv.7kfm.cn/api.php/iptv/vod"
  },
         {
-            "key": "csp_appys_抹茶猪APP",
-            "name": "抹茶猪APP",
+            "key": "csp_appys_躺平影视APP",
+            "name": "躺平影视APP",
             "type": 3,
             "api": "csp_AppYs",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.mczdyw.com/api.php/app/"
+            "ext": "http://www.lltpys.com/api.php/app/"
  },
         {
             "key": "csp_appys_哗哗影院APP",
