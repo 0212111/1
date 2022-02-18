@@ -1,24 +1,24 @@
 {
   "sites": [
         {
-            "key": "csp_appys_瑞丰资源APP",
-            "name": "瑞丰资源APP",
+            "key": "csp_appys_七科影视TV",
+            "name": "七科影视TV",
             "type": 3,
             "api": "csp_AppYs",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://tv.yjhan.com:4433/ruifenglb_api.php/v1.vod"
+            "ext": "http://tv.7kfm.cn/api.php/iptv/vod"
  },
         {
-            "key": "csp_appys_苍蓝4kAPP",
-            "name": "苍蓝4kAPP",
+            "key": "csp_appys_抹茶猪APP",
+            "name": "抹茶猪APP",
             "type": 3,
             "api": "csp_AppYs",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://vip.ruifenglb.com:4433/api.php/app/"
+            "ext": "https://www.mczdyw.com/api.php/app/"
  },
         {
             "key": "csp_appys_哗哗影院APP",
