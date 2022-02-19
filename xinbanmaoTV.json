@@ -30,15 +30,6 @@
             "filterable": 1,
             "ext": "http://www.lltpys.com/api.php/app/"
  },
-       {
-    "key": "苍蓝4K",
-    "name": "苍蓝4K",
-    "type": 1,
-    "api": " http://shangjihuoke.com/api.php/provide/vod/from/CL4K",
-    "playUrl": "",
-    "searchable": 1,
-    "filterable": 0
-  },
         {
             "key": "csp_appys_哗哗影院APP",
             "name": "哗哗影院APP",
