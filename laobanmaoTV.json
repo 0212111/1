@@ -80,15 +80,6 @@
     "filterable": 0
   },
   {
-    "key": "苍蓝4K",
-    "name": "苍蓝4K",
-    "type": 1,
-    "api": " http://shangjihuoke.com/api.php/provide/vod/from/CL4K",
-    "playUrl": "",
-    "searchable": 1,
-    "filterable": 0
-  },
-  {
     "key": "揉子影视",
     "name": "楺子影视",
     "type": 0,
