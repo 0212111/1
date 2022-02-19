@@ -3210,6 +3210,10 @@
     ]}],
   "parses": [
   {
+    "name": "心鸾解析",
+    "url": "http://yaluan.520say.cn/home/api?type=ys&uid=96088&key=dghktxDIJKMOPWZ467&url="
+  },
+  {
     "name": "4433解析",
     "url": "https://vip.parwix.com:4433/player/?url="
   },
