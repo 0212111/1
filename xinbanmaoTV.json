@@ -11,6 +11,16 @@
             "ext": "http://tv.7kfm.cn/api.php/iptv/vod"
  },
         {
+            "key": "csp_appys_青杏TV",
+            "name": "青杏TV",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://pp.ddmym.cn/api.php/iptv/vod/"
+ },
+        {
             "key": "csp_appys_躺平影视APP",
             "name": "躺平影视APP",
             "type": 3,
