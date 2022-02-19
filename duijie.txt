@@ -1,0 +1,57 @@
+
+-----滚动公告------
+<gg> 请不要相信视频中任何广告,本APP已取消全部VIP认证!!!</gg>
+
+------解析地址---------
+<jxgg1>https://jx.parwix.com:4433/player/analysis.php?v=</jxgg1>
+<jxgg2>https://dy.tvkuys.com/?url=</jxgg2> 芒果 爱奇艺 qq 优酷 芒果 搜狐
+<jxgg3>https://okjx.cc/?url=</jxgg3>搜狐 爱奇艺 qq 优酷 NO芒果
+<jxgg4>https://www.pangujiexi.com/pangu/?url=</jxgg4>芒果失效
+<jxgg5>https://jx.m3u8.tv/jiexi/?url=</jxgg5>
+<jxgg6>https://www.playm3u8.cn/jiexi.php?url=</jxgg6>芒果失效
+<jxgg7>https://jx.cooxs.com/?url=</jxgg7> 弹幕
+<jxgg8>https://www.kpezp.cn/jlexi.php?url=</jxgg8>广告
+<jxgg9>https://zy.ataoju.com/jiexi/?url=</jxgg9> PPTV
+<jxgg10>https://jx.yunboys.cn/?url=</jxgg10> mg qq失效
+<jxgg11>https://jx.sujx.top/4k/player.php/?url=</jxgg11>
+<默认解析>https://jx.parwix.com:4433/player/analysis.php?v=</默认解析>
+
+备用解析地址：
+https://dy.tvkuys.com/?url=
+https://okjx.cc/?url=
+https://jx.parwix.com:4433/player/analysis.php?v=
+https://jx.cooxs.com/?url=
+https://jx.yunboys.cn/?url=
+https://jx.sujx.top/4k/player.php/?url=
+https://api.okjx.cc:3389/m33/?url=
+https://panguapi.ntryjd.net/.pangu2021/?url=
+https://jx.parwix.com:4433/player/?url=
+
+
+--------基础设置--------
+<bb>2.1</bb>版本
+<bb1>2.1</bb1>版本
+<bb2>2.2</bb2>版本
+<bb3>2.1</bb3>版本
+<域名>http://139.159.133.244:99/</域名>
+<更新>http://139.159.133.244:99/</更新>
+<域名2>http://139.159.133.244:99/</域名2>
+<更新2>http://139.159.133.244:99/</更新2>
+
+<app1>凡道TV.apk</app1>
+<app2>凡道影院.apk</app2>
+<app3>凡道TV.apk</app3>
+<app4>凡道影院.apk</app4>
+<gxnr>1，增加直播功能
+2，增加福利电影，宅男必备
+3，优化程序，运行更流畅
+旧版本将会摒弃，请及时更新！</gxnr>
+
+<gxnr2>
+1，虎牙直播实时获取，同时判断直播状态/信息
+2，增加福利电影，宅男必备
+3，优化程序，运行更流畅
+旧版本将会摒弃，请及时更新！</gxnr2>
+
+----------CR密码（未启用）----------
+<crmm>123456789</crmm>
