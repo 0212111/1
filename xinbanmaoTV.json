@@ -31,6 +31,16 @@
             "ext": "http://www.lltpys.com/api.php/app/"
  },
         {
+            "key": "csp_appys_苍蓝4K",
+            "name": "苍蓝4K",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": " http://shangjihuoke.com/api.php/provide/vod/from/CL4K"
+ },
+        {
             "key": "csp_appys_哗哗影院APP",
             "name": "哗哗影院APP",
             "type": 3,
