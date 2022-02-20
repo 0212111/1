@@ -1,71 +1,10 @@
 {
   "sites": [
-    {
-        "key": "影视工厂",
-        "name": "影视工厂爬虫",
-        "type": 1,
-        "api": "http://pandown.pro/mao/ysgc.php"
-    },
-  {
-    "key": "lezhu",
-    "name": "乐猪爬虫",
-    "type": 1,
-    "api": "http://pandown.pro/mao/lezhu.php"
-  },
-  {
-    "key": "cokemv",
-    "name": "cokemv爬虫",
-    "type": 1,
-    "api": "http://pandown.pro/mao/cokemv.php"
-  },
-  {
-    "key": "chuxin",
-    "name": "初心爬虫",
-    "type": 1,
-    "api": "http://pandown.pro/mao/chuxin.php"
-  },
-  {
-    "key": "buka",
-    "name": "不开VIP爬虫",
-    "type": 1,
-    "api": "http://pandown.pro/mao/buka.php"
-  },
-
-  {
-    "key": "xmkk",
-    "name": "熊猫看看爬虫",
-    "type": 1,
-    "api": "http://pandown.pro/mao/xmkk.php"
-  },
-  {
-    "key": "nekk",
-    "name": "九亿爬虫",
-    "type": 1,
-    "api": "http://pandown.pro/mao/nekk.php"
-  },
-  {
-    "key": "xuangz",
-    "name": "六度爬虫",
-    "type": 1,
-    "api": "http://pandown.pro/mao/xuangz.php"
-  },
-  {
-    "key": "libvio",
-    "name": "libvio爬虫",
-    "type": 1,
-    "api": "http://pandown.pro/mao/libvio.php"
-  },
-  {
-    "key": "tv552",
-    "name": "迪迪爬虫",
-    "type": 1,
-    "api": "http://pandown.pro/mao/tv552.php"
-  },
   {
     "key": "剧大神",
     "name": "剧大神",
     "type": 1,
-    "api": "http://judashen.com/api.php/provide/vod/?pg=1",
+    "api": "http://judashen.com/api.php/provide/vod",
     "playUrl": "",
     "searchable": 1,
     "filterable": 0
@@ -74,7 +13,7 @@
     "key": "兔子窝影院",
     "name": "兔子窝影院",
     "type": 1,
-    "api": "http://cj.huimaojia.com:12345/api.php/provide/vod/?ac=list",
+    "api": "http://cj.huimaojia.com:12345/api.php/provide/vod",
     "playUrl": "",
     "searchable": 1,
     "filterable": 0
@@ -3210,10 +3149,6 @@
     ]}],
   "parses": [
   {
-    "name": "心鸾解析",
-    "url": "http://yaluan.520say.cn/home/api?type=ys&uid=96088&key=dghktxDIJKMOPWZ467&url="
-  },
-  {
     "name": "4433解析",
     "url": "https://vip.parwix.com:4433/player/?url="
   },
@@ -3260,10 +3195,6 @@
         {
       "name": "WdsEcsxs",
       "url": "https://wds.ecsxs.com/219154.html?url="
-    },
-    {
-      "name": "GitHub",
-      "url": "https://qmyr.github.io/?url="
     },
   {
     "name": "纯净解析",
