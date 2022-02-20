@@ -1,5 +1,11 @@
 {
   "sites": [
+    {
+        "key": "影视工厂",
+        "name": "影视工厂爬虫",
+        "type": 1,
+        "api": "http://pandown.pro/mao/ysgc.php"
+    },
   {
     "key": "lezhu",
     "name": "乐猪爬虫",
@@ -48,12 +54,6 @@
     "name": "libvio爬虫",
     "type": 1,
     "api": "http://pandown.pro/mao/libvio.php"
-  },
-  {
-    "key": "ysgc",
-    "name": "毒蛇爬虫",
-    "type": 1,
-    "api": "http://pandown.pro/mao/ysgc.php"
   },
   {
     "key": "tv552",
@@ -3257,6 +3257,14 @@
     "name": "全能VIP",
     "url": "https://jx.cxk8.com?v="
   },
+        {
+      "name": "WdsEcsxs",
+      "url": "https://wds.ecsxs.com/219154.html?url="
+    },
+    {
+      "name": "GitHub",
+      "url": "https://qmyr.github.io/?url="
+    },
   {
     "name": "纯净解析",
     "url": "https://z1.m1907.cn/?jx="
