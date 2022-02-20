@@ -1,6 +1,73 @@
 {
   "sites": [
-  {
+        {
+        "key": "dmbs",
+        "name": "动漫巴士",
+        "type": 1,
+        "api": "http://pandown.pro/maoys/dmbs.php"
+    },
+        {
+        "key": "lezhu",
+        "name": "乐猪爬虫",
+        "type": 1,
+        "api": "http://pandown.pro/maoys/lezhu.php"
+    },
+        {
+        "key": "cokemv",
+        "name": "cokemv爬虫",
+        "type": 1,
+        "api": "http://pandown.pro/maoys/cokemv.php"
+    },
+    {
+        "key": "chuxin",
+        "name": "初心爬虫",
+        "type": 1,
+        "api": "http://pandown.pro/maoys/chuxin.php"
+    },
+    {
+        "key": "buka",
+        "name": "不开VIP爬虫",
+        "type": 1,
+        "api": "http://pandown.pro/maoys/buka.php"
+    },
+
+    {
+        "key": "xmkk",
+        "name": "熊猫爬虫",
+        "type": 1,
+        "api": "http://pandown.pro/maoys/xmkk.php"
+    },
+        {
+        "key": "nekk",
+        "name": "九亿爬虫",
+        "type": 1,
+        "api": "http://pandown.pro/maoys/nekk.php"
+    },
+{
+        "key": "xuangz",
+        "name": "六度爬虫",
+        "type": 1,
+        "api": "http://pandown.pro/maoys/xuangz.php"
+    },
+    {
+        "key": "libvio",
+        "name": "libvio爬虫",
+        "type": 1,
+        "api": "http://pandown.pro/maoys/libvio.php"
+    },
+    {
+        "key": "ysgc",
+        "name": "毒蛇爬虫",
+        "type": 1,
+        "api": "http://pandown.pro/maoys/ysgc.php"
+    },
+{
+        "key": "tv552",
+        "name": "迪迪爬虫",
+        "type": 1,
+        "api": "http://pandown.pro/maoys/tv552.php"
+    },
+       {
     "key": "兔子窝影院",
     "name": "兔子窝影院",
     "type": 1,
