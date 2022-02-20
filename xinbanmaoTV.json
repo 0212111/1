@@ -31,6 +31,16 @@
             "ext": "http://www.lltpys.com/api.php/app/"
  },
         {
+            "key": "csp_appys_奈飞APP",
+            "name": "奈飞APP",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.naifei.org/api.php/v1.vod"
+ },
+        {
             "key": "csp_appys_哗哗影院APP",
             "name": "哗哗影院APP",
             "type": 3,
