@@ -1,19 +1,19 @@
 {
   "sites": [
   {
-    "key": "剧大神",
-    "name": "剧大神",
+    "key": "兔子窝影院",
+    "name": "兔子窝影院",
     "type": 1,
-    "api": "http://judashen.com/api.php/provide/vod",
+    "api": "http://cj.huimaojia.com:12345/api.php/provide/vod",
     "playUrl": "",
     "searchable": 1,
     "filterable": 0
   },
   {
-    "key": "兔子窝影院",
-    "name": "兔子窝影院",
+    "key": "剧大神",
+    "name": "剧大神",
     "type": 1,
-    "api": "http://cj.huimaojia.com:12345/api.php/provide/vod",
+    "api": "http://judashen.com/api.php/provide/vod",
     "playUrl": "",
     "searchable": 1,
     "filterable": 0
