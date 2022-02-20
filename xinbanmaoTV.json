@@ -51,6 +51,16 @@
             "ext": "http://baofu111.top/mogai_api.php/v1.vod"
  },
         {
+            "key": "csp_appys_六神追剧APP",
+            "name": "六神追剧APP",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://l.520say.cn/api.php/app/"
+ },
+        {
             "key": "csp_appys_康耀影视APP",
             "name": "康耀影视APP",
             "type": 3,
