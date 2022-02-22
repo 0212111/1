@@ -51,14 +51,14 @@
             "ext": "https://www.naifei.org/api.php/v1.vod"
  },
         {
-            "key": "csp_appys_哗哗影院APP",
-            "name": "哗哗影院APP",
+            "key": "csp_appys_寒枫视频APP",
+            "name": "寒枫视频APP",
             "type": 3,
             "api": "csp_AppYs",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://baofu111.top/mogai_api.php/v1.vod"
+            "ext": "https://vip.shenyunwl.cn/mogai_api.php/v1.vod"
  },
         {
             "key": "csp_appys_六神追剧APP",
