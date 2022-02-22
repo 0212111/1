@@ -282,11 +282,11 @@
     "playUrl":""
   },
   {
-    "key": "人人迷",
-    "name": "人人迷(有G)",
+    "key": "人人迷蓝光",
+    "name": "人人迷蓝光",
     "type": 0,
-    "api": "http://www.zjys.vip/api.php/provide/vod/from/renrenmi/at/xml",
-    "playUrl": "https://kuba.renrenmi.cc:2266/api/?key=Y6UYLYtjImTCKe98JD&url= ",
+    "api": "https://koko.renrenmi.cc/api.php/provide/vod",
+    "playUrl": "https://jiexi.astv.vip/home/api?type=ys&uid=1&key=free&url=",
     "searchable": 1,
     "quickSearch":1,
     "categories": []
@@ -475,13 +475,6 @@
     "searchable":1,
     "quickSearch":0,
     "categories":[]
-  },
-  {
-    "key": "人人影视",
-    "name": "人人影视",
-    "type": 0,
-    "api": "https://kuu.renrenmi.cc/api.php/provide/vod/at/xml",
-    "playUrl": "https://jx.renrenmi.cc/?url="
   },
   {
     "key":"测试",
@@ -854,12 +847,6 @@
     "name":"白熊影视",
     "type":0,
     "api":"https://www.bxyy5.com/api.php/provide/vod/at/xml"
-  },
-  {
-    "key":"人人资源",
-    "name":"人人资源",
-    "type":0,
-    "api":"https://www.rrzyw.cc/api.php/provide/vod/at/xml"
   },
   {
     "key":"卧龙资源",
@@ -1750,33 +1737,6 @@
     ]
 
   },
-  {
-    "key": "人人迷",
-    "name": "人人迷",
-    "type": 1,
-    "api": "https://kuu.renrenmi.cc/api.php/provide/vod/?ac=list",
-    "playUrl": "https://jx.renrenmi.cc/?url=",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "categories": [
-    "动作片",
-    "喜剧片",
-    "爱情片",
-    "科幻片",
-    "剧情片",
-    "战争片",
-    "恐怖片",
-    "国产剧",
-    "港台剧",
-    "日韩剧",
-    "欧美剧",
-    "其他剧",
-    "综艺",
-    "动漫"
-    ]
-  },
-
   {
     "key": "滴哩TV",
     "name": "滴哩TV",
