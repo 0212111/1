@@ -81,6 +81,16 @@
             "ext": "http://app.ybyyds.cn/mogai_api.php/v1.vod"
  },
         {
+            "key": "csp_appys_王牌影音APP",
+            "name": "王牌影音APP",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://wp.kuanjv.com/xgapp.php/v2/"
+ },
+        {
             "key": "csp_appys_雪人影视APP",
             "name": "雪人影视APP",
             "type": 3,
