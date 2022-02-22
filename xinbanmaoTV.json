@@ -28,7 +28,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://150.158.130.238:4433/api.php/v1.vod/"
+            "ext": "http://150.158.130.238:4433/api.php/v1.vod"
  },
         {
             "key": "csp_appys_躺平影视APP",
