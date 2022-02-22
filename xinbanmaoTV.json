@@ -41,6 +41,16 @@
             "ext": "http://www.lltpys.com/api.php/app/"
  },
         {
+            "key": "csp_appys_极酷视频APP",
+            "name": "极酷视频APP",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jiku.vip/mogai_api.php/v1.vod"
+ },
+        {
             "key": "csp_appys_奈飞APP",
             "name": "奈飞APP",
             "type": 3,
