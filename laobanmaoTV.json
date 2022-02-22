@@ -67,16 +67,6 @@
         "type": 1,
         "api": "http://pandown.pro/maoys/tv552.php"
     },
-  {
-    "key": "人人迷蓝光",
-    "name": "人人迷蓝光",
-    "type": 1,
-    "api": "https://koko.renrenmi.cc/api.php/provide/vod/",
-    "playUrl": "https://jiexi.astv.vip/home/api?type=ys&uid=1&key=free&url=",
-    "searchable": 1,
-    "quickSearch":1,
-    "categories": []
-  },
        {
     "key": "兔子窝影院",
     "name": "兔子窝影院",
