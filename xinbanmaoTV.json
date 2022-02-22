@@ -21,6 +21,16 @@
             "ext": "http://pp.ddmym.cn/api.php/iptv/vod/"
  },
         {
+            "key": "csp_appys_爱MV APP",
+            "name": "爱MV APP",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://150.158.130.238:4433/api.php/v1.vod/"
+ },
+        {
             "key": "csp_appys_躺平影视APP",
             "name": "躺平影视APP",
             "type": 3,
