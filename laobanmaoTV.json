@@ -77,6 +77,13 @@
     "filterable": 0
   },
   {
+    "key":"苍蓝4K",
+    "name":"苍蓝4K",
+    "type":0,
+    "api":"http://shangjihuoke.com/api.php/provide/vod",
+    "playUrl":"https://tv.yjhan.com:4433/CL4K/?url="
+  },
+  {
     "key": "剧大神",
     "name": "剧大神",
     "type": 1,
