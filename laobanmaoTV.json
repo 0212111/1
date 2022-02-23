@@ -80,7 +80,7 @@
             "key":"苍蓝4K",
             "name":"苍蓝4K",
             "type":1,
-            "api":"http://shangjihuoke.com/api.php/provide/vod/",
+            "api":"http://shangjihuoke.com/api.php/provide/vod/from/CL4K",
     "playUrl":"https://tv.yjhan.com:4433/CL4K/?url="
   },
   {
