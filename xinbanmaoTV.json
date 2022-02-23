@@ -51,13 +51,6 @@
             "ext": "https://www.naifei.org/api.php/v1.vod"
  },
         {
-            "key":"苍蓝4K",
-            "name":"苍蓝4K",
-            "type":0,
-            "api":"http://shangjihuoke.com/api.php/provide/vod/from/CL4K",
-    "playUrl":"https://tv.yjhan.com:4433/CL4K/?url="
-  },
-        {
             "key": "csp_appys_寒枫视频APP",
             "name": "寒枫视频APP",
             "type": 3,
