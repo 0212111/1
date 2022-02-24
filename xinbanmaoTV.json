@@ -21,6 +21,16 @@
             "ext": "http://pp.ddmym.cn/api.php/iptv/vod/"
  },
         {
+            "key": "csp_appys_六把刀影院APP",
+            "name": "六把刀影院APP",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://pro.6bd.net/mogai_api.php/v1.vod/types"
+ },
+        {
             "key": "csp_appys_爱MV APP",
             "name": "爱MV APP",
             "type": 3,
