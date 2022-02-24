@@ -28,7 +28,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://pro.6bd.net/mogai_api.php/v1.vod/types"
+            "ext": "https://pro.6bd.net/mogai_api.php/v1.vod"
  },
         {
             "key": "csp_appys_爱MV APP",
