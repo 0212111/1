@@ -21,6 +21,16 @@
             "ext": "http://pp.ddmym.cn/api.php/iptv/vod/"
  },
         {
+            "key": "csp_appys_猫咪TV",
+            "name": "猫咪TV",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://106.12.113.90:6565/api.php/iptv/vod"
+ },
+        {
             "key": "csp_appys_六把刀影院APP",
             "name": "六把刀影院APP",
             "type": 3,
