@@ -85,6 +85,13 @@
     "searchable": 1,
     "filterable": 0
   },
+  {
+    "key": "1920官采",
+    "name": "1920官采",
+    "type": 1,
+    "api": "http://zy.1920i.com/api.php/provide/vod/",
+    "playUrl": ""
+  },
        {
     "key": "兔子窝影院",
     "name": "兔子窝影院",
@@ -163,13 +170,6 @@
     "动漫",
     "少儿频道"
     ]
-  },
-  {
-    "key": "1920官采",
-    "name": "1920官采",
-    "type": 1,
-    "api": "http://zy.1920i.com/api.php/provide/vod/",
-    "playUrl": ""
   },
   {
     "key": "无尽资源",
