@@ -41,16 +41,6 @@
             "ext": "http://baofu111.top/mogai_api.php/v1.vod"
  },
         {
-            "key": "csp_appys_爱电影APP",
-            "name": "爱电影APP",
-            "type": 3,
-            "api": "csp_AppYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.idianying.com.cn/mogai_api.php/v1.vod"
- },
-        {
             "key": "csp_appys_百淘影视APP",
             "name": "百淘影视APP",
             "type": 3,
