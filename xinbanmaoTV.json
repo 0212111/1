@@ -31,6 +31,36 @@
             "ext": "http://106.12.113.90:6565/api.php/iptv/vod"
  },
         {
+            "key": "csp_appys_哔哔影院APP",
+            "name": "哔哔影院APP",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://baofu111.top/mogai_api.php/v1.vod"
+ },
+        {
+            "key": "csp_appys_爱电影APP",
+            "name": "爱电影APP",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.idianying.com.cn/mogai_api.php/v1.vod"
+ },
+        {
+            "key": "csp_appys_百淘影视APP",
+            "name": "百淘影视APP",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://ys.58g8.com/lvdou_api.php/v1.vod"
+ },
+        {
             "key": "csp_appys_六把刀影院APP",
             "name": "六把刀影院APP",
             "type": 3,
