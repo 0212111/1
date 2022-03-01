@@ -51,6 +51,16 @@
             "ext": "https://pro.6bd.net/mogai_api.php/v1.vod"
  },
         {
+            "key": "csp_appys_觅影影视APP",
+            "name": "觅影影视APP",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://ccxg.xazhutu.com/xgapp.php/v1/"
+ },
+        {
             "key": "csp_appys_琅琊影视APP",
             "name": "琅琊影视APP",
             "type": 3,
