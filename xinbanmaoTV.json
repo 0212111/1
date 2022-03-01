@@ -61,6 +61,16 @@
             "ext": "http://ccxg.xazhutu.com/xgapp.php/v1/"
  },
         {
+            "key": "csp_appys_饭后电影APP",
+            "name": "饭后电影APP",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://summ.vip/api.php/v1.vod"
+ },
+        {
             "key": "csp_appys_琅琊影视APP",
             "name": "琅琊影视APP",
             "type": 3,
