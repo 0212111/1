@@ -3184,10 +3184,6 @@
     ]}],
   "parses": [
   {
-    "name": "json ysys",
-    "url": "http://json.ysys.asia/home/api?type=app&uid=44372&key=deijrtyzADEGILQUW4&url="
-  },
-  {
     "name": "百淘解析",
     "url": "http://ys.58g8.com/1/?url="
   },
