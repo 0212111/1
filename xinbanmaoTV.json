@@ -60,7 +60,7 @@
             "filterable": 1,
             "ext": "http://ccxg.xazhutu.com/xgapp.php/v1/"
  },
-"天空影视V1":{"url":"http://summ.vip/api.php/v1.vod","jx":[["饭后独播","mpt3","https://tv.yjhan.com:4433/CL4K/?url="]]},        {
+       {
             "key": "csp_appys_琅琊影视APP",
             "name": "琅琊影视APP",
             "type": 3,
@@ -90,6 +90,7 @@
             "filterable": 1,
             "ext": "http://www.lltpys.com/api.php/app/"
  },
+{"key":"csp_appysv1_饭后电影V1","name":"饭后电影V1(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"饭后电影V1###https://gitea.com/dukanyilunfanhua/sp/raw/branch/master/appys.json"},
         {
             "key": "csp_appys_奈飞APP",
             "name": "奈飞APP",
