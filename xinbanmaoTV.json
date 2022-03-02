@@ -31,14 +31,14 @@
             "ext": "http://106.12.113.90:6565/api.php/iptv/vod"
  },
         {
-            "key": "csp_appys_哔哔影院APP",
-            "name": "哔哔影院APP",
+            "key": "csp_appys_阿里影视APP",
+            "name": "阿里影视{APP",
             "type": 3,
             "api": "csp_AppYs",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://baofu111.top/mogai_api.php/v1.vod"
+            "ext": "http://aliys.cn:90/api.php/v1.vod"
  },
         {
             "key": "csp_appys_六把刀影院APP",
