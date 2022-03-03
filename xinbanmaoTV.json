@@ -1,15 +1,15 @@
 {
   "sites": [
-        {
-            "key": "csp_appys_七科影视TV",
-            "name": "七科影视TV",
-            "type": 3,
-            "api": "csp_AppYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://tv.7kfm.cn/api.php/iptv/vod"
- },
+      {
+	"key": "csp_appysv2_七科影视TV",
+	"name": "七科影视TV",
+	"type": 3,
+	"api": "csp_AppYsV2",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "七科影视TV###https://gitea.com/dukanyilunfanhua/sp/raw/branch/master/AppYs.json"
+ },     
         {
             "key": "csp_appys_青杏TV",
             "name": "青杏TV",
