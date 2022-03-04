@@ -216,16 +216,16 @@
         {"key":"csp_appys_v1_4K屋","name":"4K屋","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://1080p.one/mogai_api.php/v1.vod"},
         {"key":"csp_yinghua","name":"樱花动漫(网站)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://cncncloud.com/api/v3/file/source/3064155/yhdm.json?sign=D7Ln4EnjZILBPy7fHx4p6LCFTBOBKDkdoCgwI3WYyZA%3D%3A0"},
         {"key":"csp_动漫巴士","name":"动漫巴士(网站)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://cncncloud.com/api/v3/file/source/3064473/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json?sign=QwPfl0Tr7SHXn-SwPxVOKjtsPsM1oXETiclj9CWT8rw%3D%3A0"},
-        {
-            "key": "csp_appys_555电影APP",
-            "name": "555电影APP",
-            "type": 3,
-            "api": "csp_AppYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://555dy3.com/api.php/app/"
- },
+      {
+	"key": "csp_appysv2_555电影",
+	"name": "555电影APP",
+	"type": 3,
+	"api": "csp_AppYsV2",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "555电影###https://gitea.com/dukanyilunfanhua/sp/raw/branch/master/AppYs.json"
+ },     
         {
             "key": "csp_appys_TV酷影视APP",
             "name": "TV酷影视APP",
