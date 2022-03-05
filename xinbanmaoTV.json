@@ -91,16 +91,6 @@
             "ext": "http://150.158.130.238:4433/api.php/v1.vod"
  },
         {
-            "key": "csp_appys_杨桃影视APP",
-            "name": "杨桃影视APP",
-            "type": 3,
-            "api": "csp_AppYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ytys3456.com/mogai_api.php/v1.vod"
- },
-        {
             "key": "csp_appys_心爱影视APP",
             "name": "心爱影视APP",
             "type": 3,
