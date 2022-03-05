@@ -91,6 +91,36 @@
             "ext": "http://150.158.130.238:4433/api.php/v1.vod"
  },
         {
+            "key": "csp_appys_杨桃影视APP",
+            "name": "杨桃影视APP",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ytys3456.com/mogai_api.php/v1.vod"
+ },
+        {
+            "key": "csp_appys_心爱影视APP",
+            "name": "心爱影视APP",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://xays6677.com/mogai_api.php/v1.vod"
+ },
+        {
+            "key": "csp_appys_大熊影视APP",
+            "name": "大熊影视APP",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://dxys2233.com/mogai_api.php/v1.vod"
+ },
+        {
             "key": "csp_appys_躺平影视APP",
             "name": "躺平影视APP",
             "type": 3,
@@ -99,6 +129,36 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://www.lltpys.com/api.php/app/"
+ },
+        {
+            "key": "csp_appys_随风影视APP",
+            "name": "随风影视APP",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://app.ruchu.cloud/api.php/v1.vod"
+ },
+        {
+            "key": "csp_appys_源来影视APP",
+            "name": "源来影视APP",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://ld.ylaiys.com/lvdou_api.php/v1.vod"
+ },
+        {
+            "key": "csp_appys_流星APP",
+            "name": "流星APP",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://fkxs2233.com/mogai_api.php/v1.vod"
  },
         {
             "key": "csp_appys_奈飞APP",
