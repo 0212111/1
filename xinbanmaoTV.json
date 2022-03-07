@@ -118,14 +118,14 @@
             "ext": "https://dxys2233.com/mogai_api.php/v1.vod"
  },
         {
-            "key": "csp_appys_躺平影视APP",
-            "name": "躺平影视APP",
+            "key": "csp_appys_追剧达人APP",
+            "name": "追剧达人APP",
             "type": 3,
             "api": "csp_AppYs",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://www.lltpys.com/api.php/app/"
+            "ext": "https://www.zhuijudaren.com/mogai_api.php/v1.vod"
  },
         {
             "key": "csp_appys_随风影视APP",
