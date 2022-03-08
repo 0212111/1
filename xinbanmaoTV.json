@@ -1,6 +1,31 @@
 {
   "sites": [
        {
+    "key": "360官采",
+    "name": "360官采",
+    "type": 1,
+    "api": "http://360.tgzy.cc:1005/api.php/provide/vod/",
+    "playUrl": "",
+    "searchable": 1,
+    "filterable": 0
+  },
+       {
+    "key": "2345官采",
+    "name": "2345官采",
+    "type": 1,
+    "api": "http://2345.tgzy.cc:1005/api.php/provide/vod",
+    "playUrl": "",
+    "searchable": 1,
+    "filterable": 0
+  },
+       {
+    "key": "1920官采",
+    "name": "1920官采",
+    "type": 1,
+    "api": "http://zy.1920i.com/api.php/provide/vod/",
+    "playUrl": ""
+  },
+       {
     "key":"龙腾资源",
     "name":"龙腾资源",
     "type":1,
@@ -1029,12 +1054,16 @@
   ],
   "parses": [
   {
-    "name": "4433解析",
-    "url": "https://vip.parwix.com:4433/player/?url="
+    "name": "json 毒舌",
+    "url": "https://jf.96ym.cn/api/?key=13FXcA46Nzg4QeFHbq&url="
   },
   {
-    "name": "韭菜解析",
-    "url": "http://42.192.201.37:6621/jiucai.php?guanwang=anyi.wchulian.com.cn&url="
+    "name": "json 江湖",
+    "url": "https://a.dxzj88.com/jianghujx/?url="
+  },
+  {
+    "name": "json 蟒蛇",
+    "url": "https://svip.msdv.cn/api/?key=rDnpbrA5liboOeKTA4&url="
   },
   {
     "name": "ok解析",
