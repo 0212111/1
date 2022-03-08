@@ -346,7 +346,7 @@
     "key":"雪人官采",
     "name":"雪人官采",
     "type":1,
-    "api":"https://zl.qd234.cn/api.php/provide/vod/?ac=list",
+    "api":"https://zl.qd234.cn/api.php/provide/vod",
     "searchable":1,
     "quickSearch":1,
     "categories":[]
@@ -3205,6 +3205,10 @@
   {
     "name": "555解析",
     "url": "https://jhpc.manduhu.com/player/?url="
+  },
+  {
+    "name": "蓝光解析",
+    "url": "https://www.daga.cc/vip1/?url="
   },
   {
     "name": "2090解析",
