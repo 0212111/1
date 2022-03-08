@@ -26,6 +26,15 @@
     "playUrl": ""
   },
        {
+    "key":"雪人官采",
+    "name":"雪人官采",
+    "type":1,
+    "api":"https://zl.qd234.cn/api.php/provide/vod",
+    "searchable":1,
+    "quickSearch":1,
+    "categories":[]
+  },
+       {
     "key":"龙腾资源",
     "name":"龙腾资源",
     "type":1,
@@ -1053,6 +1062,14 @@
     }
   ],
   "parses": [
+  {
+    "name": "百淘解析",
+    "url": "http://ys.58g8.com/1/?url="
+  },
+  {
+    "name": "4433解析",
+    "url": "https://vip.parwix.com:4433/player/?url="
+  },
   {
     "name": "ok解析",
     "url": "https://okjx.cc/?url="
