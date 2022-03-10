@@ -67,24 +67,6 @@
         "type": 1,
         "api": "http://pandown.pro/maoys/tv552.php"
     },
-       {
-    "key": "360官采",
-    "name": "360官采",
-    "type": 1,
-    "api": "http://360.tgzy.cc:1005/api.php/provide/vod/",
-    "playUrl": "",
-    "searchable": 1,
-    "filterable": 0
-  },
-       {
-    "key": "2345官采",
-    "name": "2345官采",
-    "type": 1,
-    "api": "http://2345.tgzy.cc:1005/api.php/provide/vod",
-    "playUrl": "",
-    "searchable": 1,
-    "filterable": 0
-  },
   {
     "key": "1920官采",
     "name": "1920官采",
