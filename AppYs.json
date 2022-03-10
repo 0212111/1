@@ -4,7 +4,7 @@
 "七科影视TV":{"url":"http://tv.7kfm.cn/api.php/iptv/vod","jx":[["qq","youku","qiyi","sohu","https://jf.96ym.cn/api/?key=13FXcA46Nzg4QeFHbq&url="]]},
 "追剧达人":{"url":"https://vipmv.co/xgapp.php/v1/"},
 "星空影视":{"url":"https://xkys.tv/xgapp.php/v1/","jx":[]},
-"饭后电影":{"url":"http://summ.vip/api.php/v1.vod","jx":[["饭后独播","https://tv.yjhan.com:4433/CL4K/?url="]]},
+"饭后电影":{"url":"http://baicai.summ.vip/api.php/v1.vod","jx":[["饭后独播","https://tv.yjhan.com:4433/CL4K/?url="]]},
 "天空影视":{"url":"https://tkys.tv/xgapp.php/v1/"},
 "天空影视V2":{"url":"https://www.tkys.tv/xgapp.php/v2/","jx":[["miaoparty3","mpt3","https://www.meiju56.com/a/jmplay/?url="]]},
 "迪迪影院V2":{"url":"http://dd88.icu:6080/xgapp.php/v2/"},
