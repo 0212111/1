@@ -24,6 +24,13 @@
     "playUrl":"https://analysis.yikan.one/analysis/player/?uid=8&my=fjkmoqFJLORTVZ1359&url="
   },
        {
+    "key": "江北资源",
+    "name": "江北资源",
+    "type": 1,
+    "api": "https://gfzycj.hnmj.vip/api.php/provide/vod/",
+    "playUrl": ""
+  },
+       {
 	"key": "csp_appysv2_七科影视TV",
 	"name": "七科影视TV",
 	"type": 3,
