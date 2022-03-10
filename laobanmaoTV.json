@@ -75,6 +75,13 @@
     "playUrl": ""
   },
   {
+    "key": "江北资源",
+    "name": "江北资源",
+    "type": 1,
+    "api": "https://gfzycj.hnmj.vip/api.php/provide/vod/",
+    "playUrl": ""
+  },
+  {
     "key":"龙腾资源",
     "name":"龙腾资源",
     "type":1,
