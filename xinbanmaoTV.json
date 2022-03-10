@@ -61,6 +61,16 @@
             "ext": "http://360yy.cn/api.php/app/"
  },
         {
+            "key": "csp_appys_飓风影院APP",
+            "name": "飓风影院APP",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://yidayy.top/lehailb_api.php/v1.vod"
+ },
+        {
             "key": "csp_appys_猫咪TV",
             "name": "猫咪TV",
             "type": 3,
