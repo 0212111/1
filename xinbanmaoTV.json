@@ -81,16 +81,6 @@
             "ext": "http://106.12.113.90:6565/api.php/iptv/vod"
  },
         {
-            "key": "csp_appys_青视频APP",
-            "name": "青视频APP",
-            "type": 3,
-            "api": "csp_AppYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://150.158.133.36:9904/qingdoujiekou.php/v1.vod"
- },
-        {
             "key": "csp_appys_阿里影视APP",
             "name": "阿里影视APP",
             "type": 3,
