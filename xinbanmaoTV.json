@@ -51,14 +51,14 @@
             "ext": "http://pp.ddmym.cn/api.php/iptv/vod/"
  },
         {
-            "key": "csp_appys_牛马TV APP",
-            "name": "牛马TV APP",
+            "key": "csp_appys_北川影视APP",
+            "name": "北川影视APP",
             "type": 3,
             "api": "csp_AppYs",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://niumatv.com/api.php/app/"
+            "ext": "https://www.bcwzg.com/api.php/app/"
  },
         {
             "key": "csp_appys_傻猫追剧APP",
