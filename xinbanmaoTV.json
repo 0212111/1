@@ -51,6 +51,16 @@
             "ext": "http://pp.ddmym.cn/api.php/iptv/vod/"
  },
         {
+            "key": "csp_appys_傻猫追剧APP",
+            "name": "傻猫追剧APP",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://luobu.yss6080.com/mogai_api.php/v1.vod"
+ },
+        {
             "key": "csp_appys_VIP影院APP",
             "name": "VIP影院APP",
             "type": 3,
