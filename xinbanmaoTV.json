@@ -51,6 +51,16 @@
             "ext": "http://pp.ddmym.cn/api.php/iptv/vod/"
  },
         {
+            "key": "csp_appys_闲人视频APP",
+            "name": "闲人视频APP",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://yingshi.xibiandexianren.cn/lvdou_api.php/v1.vod"
+ },
+        {
             "key": "csp_appys_北川影视APP",
             "name": "北川影视APP",
             "type": 3,
