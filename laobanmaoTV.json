@@ -3188,6 +3188,10 @@
     "url": "https://vip.parwix.com:4433/player/?url="
   },
   {
+    "name": "8090",
+    "url": "http://ts.yjhan.com:8090/api/?type=app&key=43yVlZDaJg7dYH3DZi&url="
+  },
+  {
     "name": "ok解析",
     "url": "https://okjx.cc/?url="
   },
