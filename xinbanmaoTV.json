@@ -1101,8 +1101,6 @@
     }
   ],
   "parses": [
-{"name":"Json并发","type":2,"url":"Parallel"},
-
   {
     "name": "百淘解析",
     "url": "http://ys.58g8.com/1/?url="
