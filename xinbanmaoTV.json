@@ -1109,6 +1109,9 @@
      {
     "name":"json 灯塔",
      "type":1,"url":"http://dt.hwh.ink/home/api?type=ys&uid=1297351&key=acdfklopqvwyKLOT39&url="},
+     {
+    "name":"json VIP影院",
+     "type":1,"url":"http://42.157.128.85:880/analysis/json/?uid=2233&my=fghklvwAFHLSTVZ348&url="},
   {
     "name": "百淘解析",
     "url": "http://ys.58g8.com/1/?url="
