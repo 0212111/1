@@ -61,14 +61,14 @@
             "ext": "http://yingshi.xibiandexianren.cn/lvdou_api.php/v1.vod"
  },
         {
-            "key": "csp_appys_神马影院APP",
-            "name": "神马影院APP",
+            "key": "csp_appys_奈飞迷APP",
+            "name": "奈飞迷APP",
             "type": 3,
             "api": "csp_AppYs",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.6080kan.cc/xgapp.php/v1/"
+            "ext": "https://app.netflixmi.com/api.php/v1.vod"
  },
         {
             "key": "csp_appys_北川影视APP",
