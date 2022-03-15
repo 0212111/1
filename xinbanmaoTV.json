@@ -1,10 +1,10 @@
 {
   "sites": [
        {
-    "key": "1920官采",
-    "name": "1920官采",
+    "key": "诺讯官采",
+    "name": "诺讯官采",
     "type": 1,
-    "api": "http://zy.1920i.com/api.php/provide/vod/",
+    "api": "http://caiji.nxflv.com/api.php/provide/vod/",
     "playUrl": ""
   },
        {
@@ -1115,10 +1115,6 @@
      {
     "name":"json VIP影院",
      "type":1,"url":"http://42.157.128.85:880/analysis/json/?uid=2233&my=fghklvwAFHLSTVZ348&url="},
-  {
-    "name": "云解析",
-    "url": "https://jx.aidouer.net/?url="
-  },
   {
     "name": "百淘解析",
     "url": "http://ys.58g8.com/1/?url="
