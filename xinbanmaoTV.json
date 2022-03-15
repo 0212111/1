@@ -61,6 +61,16 @@
             "ext": "http://yingshi.xibiandexianren.cn/lvdou_api.php/v1.vod"
  },
         {
+            "key": "csp_appys_神马影院APP",
+            "name": "神马影院APP",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.6080kan.cc/xgapp.php/v1/"
+ },
+        {
             "key": "csp_appys_北川影视APP",
             "name": "北川影视APP",
             "type": 3,
