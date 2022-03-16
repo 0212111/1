@@ -598,6 +598,7 @@
 	"https://m2090.com/?url=",
     "https://api.jhdyw.vip/?url=",
     "http://jx.quanmingjiexi.com/?url=",
+    "http://a.dxzj88.com/ddzy/dd.php?url=",
 	"https://www.daga.cc/vip1/?url="
   ],
   "parsePlayUrl": [
@@ -614,7 +615,7 @@
   "contains": [
     "LT-",
     "renrenmi",
-    "duoduozy.com"
+    "duoduozy"
   ],
   "ads": [
     "mimg.0c1q0l.cn",
