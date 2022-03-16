@@ -170,9 +170,9 @@
     },
     {
       "type": "jsonV1",
-      "sourceName": "555电影APP",
-      "searchUrl": "https://555dy3.com/api.php/app/search?pg=1&text=%s",
-      "detailUrl": "https://555dy3.com/api.php/app/video_detail?id=%s"
+      "sourceName": "苍蓝4K APP",
+      "searchUrl": "https://vip.ruifenglb.com:4433/api.php/app/search?pg=1&text=%s",
+      "detailUrl": "https://vip.ruifenglb.com:4433/api.php/app/video_detail?id=%s"
     },
     {
       "type": "jsonV1",
