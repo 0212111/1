@@ -170,6 +170,12 @@
     },
     {
       "type": "jsonV1",
+      "sourceName": "555电影APP",
+      "searchUrl": "https://555dy3.com/api.php/app/search?pg=1&text=%s",
+      "detailUrl": "https://555dy3.com/api.php/app/video_detail?id=%s"
+    },
+    {
+      "type": "jsonV1",
       "sourceName": "北川影视",
       "searchUrl": "https://www.bcwzg.com/api.php/app/search?pg=1&text=%s",
       "detailUrl": "https://www.bcwzg.com/api.php/app/video_detail?id=%s"
