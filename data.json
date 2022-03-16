@@ -560,12 +560,6 @@
     },
     {
       "type": "jsonV3",
-      "sourceName": "夜神视频",
-      "searchUrl": "http://ys.csjcdn.cn/mogai_api.php/v1.vod?page=1&limit=10&wd=%s",
-      "detailUrl": "http://ys.csjcdn.cn/mogai_api.php/v1.vod/detail?vod_id=%s"
-    },
-    {
-      "type": "jsonV3",
       "sourceName": "免费影视",
       "searchUrl": "http://111.229.120.180:88/lvdou_api.php/v1.vod?page=1&limit=10&wd=%s",
       "detailUrl": "http://111.229.120.180:88/lvdou_api.php/v1.vod/detail?vod_id=%s"
