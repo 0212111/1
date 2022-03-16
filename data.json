@@ -68,6 +68,12 @@
     },
     {
       "type": "json",
+      "sourceName": "饭团影视",
+      "searchUrl": "http://television.wkfile.com/api.php/provide/vod/?wd=%s",
+      "detailUrl": "http://television.wkfile.com/api.php/provide/vod/?ac=videolist&ids=%s"
+    },
+    {
+      "type": "json",
       "sourceName": "兔子窝影院",
       "searchUrl": "http://cj.huimaojia.com:12345/api.php/provide/vod?wd=%s",
       "detailUrl": "http://cj.huimaojia.com:12345/api.php/provide/vod?ac=videolist&ids=%s"
@@ -203,12 +209,6 @@
       "sourceName": "星空影视",
       "searchUrl": "https://xkys.tv/xgapp.php/v1/search?pg=1&text=%s",
       "detailUrl": "https://xkys.tv/xgapp.php/v1/video_detail?id=%s"
-    },
-    {
-      "type": "jsonV1",
-      "sourceName": "饭团影视",
-      "searchUrl": "http://television.wkfile.com/api.php/app/search?pg=1&text=%s",
-      "detailUrl": "http://television.wkfile.com/api.php/app/video_detail?id=%s"
     },
     {
       "type": "jsonV1",
