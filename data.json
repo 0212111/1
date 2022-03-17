@@ -290,6 +290,12 @@
     },
     {
       "type": "jsonV2",
+      "sourceName": "极品影视TV",
+      "searchUrl": "http://293x.yhzy.xyz/mv/api.php/Chengcheng/vod?ac=list&wd=%s",
+      "detailUrl": ""
+    },
+    {
+      "type": "jsonV2",
       "sourceName": "影视阁TV",
       "searchUrl": "http://216.98.10.85/api.php/iptv/vod?ac=list&wd=%s",
       "detailUrl": ""
