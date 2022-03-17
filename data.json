@@ -436,7 +436,7 @@
       "type": "jsonV3",
       "sourceName": "寒枫视频",
       "searchUrl": "https://vip.shenyunwl.cn/mogai_api.php/v1.vod?page=1&limit=10&wd=%s",
-      "detailUrl": "https://vip.shenyunwl.cn/mogai_api.php/v1.vod/detail?vod_id=%s"
+      "detailUrl":  "https://vip.shenyunwl.cn/mogai_api.php/v1.vod/detail?key=0317&vod_id=%s"
     },
     {
       "type": "jsonV3",
