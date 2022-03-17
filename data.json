@@ -224,6 +224,12 @@
     },
     {
       "type": "jsonV1",
+      "sourceName": "555电影APP",
+      "searchUrl": "https://555dy3.com/api.php/app/search?pg=1&text=%s",
+      "detailUrl": "https://555dy3.com/api.php/app/video_detail?id=%s"
+    },
+    {
+      "type": "jsonV1",
       "sourceName": "海胆影视",
       "searchUrl": "http://xf123.cc/api.php/app/search?pg=1&text=%s",
       "detailUrl": "http://xf123.cc/api.php/app/video_detail?id=%s"
@@ -587,6 +593,7 @@
     "https://okjx.cc?url=",
     "https://jx.ppflv.com/?url=",
 	"https://jx.blbo.cc:4433/?url=",
+    "http://a.dxzj88.com/ddzy/dd.php?url=",
     "https://jsap.attakids.com/?url=",
     "https://vip.parwix.com:4433/player/?url=",
 	"https://m2090.com/?url=",
