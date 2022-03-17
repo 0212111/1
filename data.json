@@ -599,15 +599,12 @@
 	"https://m2090.com/?url=",
     "https://api.jhdyw.vip/?url=",
     "http://jx.quanmingjiexi.com/?url=",
-    "http://a.dxzj88.com/ddzy/dd.php?url=",
 	"https://www.daga.cc/vip1/?url="
   ],
   "parsePlayUrl": [
-    "http://a.dxzj88.com/ddzy/dd.php?url="
   ],
   "parseJson": [
 	"http://dt.hwh.ink/home/api?type=ys&uid=1297351&key=acdfklopqvwyKLOT39&url=",
-    "http://a.dxzj88.com/ddzy/dd.php?url=",
     "http://www.zhaikanys.com/jx.php?url=",
     "https://jb.vjiangbei.com/home/api?type=ys&uid=2219260&key=hlmnpqswHIKQRSX146&url=",
 	"https://js.xl6.top/home/api?type=ys&uid=1087888&key=cilsxCEFGKMOQSW036&url=",
@@ -616,10 +613,8 @@
     "http://42.157.128.85:880/analysis/json/?uid=1735&my=chikuvwBCDEHIJOQS1&url="
   ],
   "contains": [
-    "LT-",
-    "renrenmi",
-    "555蓝光",
-    "duoduozy"
+    "LT",
+    "renrenmi"
   ],
   "ads": [
     "mimg.0c1q0l.cn",
