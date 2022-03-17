@@ -603,10 +603,11 @@
 	"https://www.daga.cc/vip1/?url="
   ],
   "parsePlayUrl": [
-    
+    "http://a.dxzj88.com/ddzy/dd.php?url="
   ],
   "parseJson": [
 	"http://dt.hwh.ink/home/api?type=ys&uid=1297351&key=acdfklopqvwyKLOT39&url=",
+    "http://a.dxzj88.com/ddzy/dd.php?url=",
     "http://www.zhaikanys.com/jx.php?url=",
     "https://jb.vjiangbei.com/home/api?type=ys&uid=2219260&key=hlmnpqswHIKQRSX146&url=",
 	"https://js.xl6.top/home/api?type=ys&uid=1087888&key=cilsxCEFGKMOQSW036&url=",
