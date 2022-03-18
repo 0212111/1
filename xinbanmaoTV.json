@@ -251,14 +251,14 @@
             "ext": "https://vip.shenyunwl.cn/mogai_api.php/v1.vod"
  },
         {
-            "key": "csp_appys_六神追剧APP",
-            "name": "六神追剧APP",
+            "key": "csp_appys_嗷呜视频APP",
+            "name": "嗷呜视频APP",
             "type": 3,
             "api": "csp_AppYs",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://l.520say.cn/api.php/app/"
+            "ext": "http://cx99999.cn/lvdou_api.php/v1.vod"
  },
         {
             "key": "csp_appys_康耀影视APP",
