@@ -110,46 +110,6 @@
             "filterable": 1,
             "ext": "http://yidayy.top/lehailb_api.php/v1.vod"
  },
-        {
-            "key": "csp_appys_猫咪TV",
-            "name": "猫咪TV",
-            "type": 3,
-            "api": "csp_AppYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://106.12.113.90:6565/api.php/iptv/vod"
- },
-        {
-            "key": "csp_appys_阿里影视APP",
-            "name": "阿里影视APP",
-            "type": 3,
-            "api": "csp_AppYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://aliys.cn:90/api.php/v1.vod"
- },
-        {
-            "key": "csp_appys_六把刀影院APP",
-            "name": "六把刀影院APP",
-            "type": 3,
-            "api": "csp_AppYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://pro.6bd.net/mogai_api.php/v1.vod"
- },
-      {
-	"key": "csp_appysv2_饭后电影",
-	"name": "饭后电影APP",
-	"type": 3,
-	"api": "csp_AppYsV2",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "饭后电影###https://gitea.com/dukanyilunfanhua/sp/raw/branch/master/AppYs.json"
- },     
        {
             "key": "csp_appys_觅影影视APP",
             "name": "觅影影视APP",
