@@ -16,14 +16,16 @@
     "quickSearch":1,
     "categories":[]
   },
-       {
-    "key":"龙腾资源",
-    "name":"龙腾资源",
+{
+    "key":"苍蓝4K",
+    "name":"苍蓝4K",
     "type":1,
-    "api":"https://www.bajiezy.xyz/api.php/provide/vod/from/ltnb",
-    "playUrl":"https://ltjx.jeeves.vip/home/api?type=app&uid=1589472&key=aehjpzAHILOPQRU456&url="
-  },
-       {
+    "api":"http://shangjihuoke.com/api.php/provide/vod/from/CL4K",
+    "playUrl":"json:http://ts.yjhan.com:8090/api/?key=eoWvJ8pLvB6T30IBlt&url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },       {
     "key":"苍蓝4K",
     "name":"苍蓝4K",
     "type":1,
