@@ -602,7 +602,7 @@
     }
   ],
   "parseUrl": [
-    "https://okjx.cc?url=",
+    "https://jx.iztyy.com/Bei/?url=",      "https://okjx.cc?url=",
     "https://jx.ppflv.com/?url=",
 	"https://jx.blbo.cc:4433/?url=",
     "http://a.dxzj88.com/ddzy/dd.php?url=",
@@ -617,6 +617,9 @@
   ],
   "parseJson": [
 	"http://dt.hwh.ink/home/api?type=ys&uid=1297351&key=acdfklopqvwyKLOT39&url=",
+    "http://cx99999.cn/json.php?url="
+,
+    "https://ltjx.jeeves.vip/home/api?type=ys&uid=1589472&key=aehjpzAHILOPQRU456&url=",
     "http://www.zhaikanys.com/jx.php?url=",
     "https://jb.vjiangbei.com/home/api?type=ys&uid=2219260&key=hlmnpqswHIKQRSX146&url=",
 	"https://js.xl6.top/home/api?type=ys&uid=1087888&key=cilsxCEFGKMOQSW036&url=",
@@ -625,7 +628,8 @@
     "http://42.157.128.85:880/analysis/json/?uid=1735&my=chikuvwBCDEHIJOQS1&url="
   ],
   "contains": [
-    "LT",
+    "xueren",
+    "LT-",
     "renrenmi"
   ],
   "ads": [
