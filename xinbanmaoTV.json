@@ -58,7 +58,7 @@
            "name":"苍蓝4K",
            "type":1,
            "api":"http://shangjihuoke.com/api.php/provide/vod/from/CL4K",
-           "playUrl":"http://ts.yjhan.com:8090/api/?type=app&key=DSQFgXdmj9xkDyiXdr&url="},
+           "playUrl":"json:http://ts.yjhan.com:8090/api/?type=ys&key=DSQFgXdmj9xkDyiXdr&url="},
         {
             "key": "csp_appys_奈飞迷APP",
             "name": "奈飞迷APP",
