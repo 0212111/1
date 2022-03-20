@@ -16,22 +16,6 @@
     "quickSearch":1,
     "categories":[]
   },
-{
-    "key":"苍蓝4K",
-    "name":"苍蓝4K",
-    "type":1,
-    "api":"http://shangjihuoke.com/api.php/provide/vod/from/CL4K",
-    "playUrl":"json:http://ts.yjhan.com:8090/api/?key=eoWvJ8pLvB6T30IBlt&url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },       {
-    "key":"苍蓝4K",
-    "name":"苍蓝4K",
-    "type":1,
-    "api":"http://shangjihuoke.com/api.php/provide/vod/from/CL4K",
-    "playUrl":"http://ts.yjhan.com:8090/api/?type=app&key=eoWvJ8pLvB6T30IBlt&url="
-  },
        {
     "key": "江北资源",
     "name": "江北资源",
@@ -68,6 +52,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://yingshi.xibiandexianren.cn/lvdou_api.php/v1.vod"
+ },
+        {
+            "key": "csp_appys_苍蓝4K APP",
+            "name": "苍蓝4K APP",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://vip.ruifenglb.com:4433/api.php/app/"
  },
         {
             "key": "csp_appys_奈飞迷APP",
