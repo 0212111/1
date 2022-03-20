@@ -110,6 +110,12 @@
     },
     {
       "type": "json",
+      "sourceName": "苍蓝4K",
+      "searchUrl": "http://shangjihuoke.com/api.php/provide/vod/from/CL4K?wd=%s",
+      "detailUrl": "http://shangjihuoke.com/api.php/provide/vod/from/CL4K?ac=videolist&ids=%s"
+    },
+    {
+      "type": "json",
       "sourceName": "百度官方",
       "searchUrl": "https://api.apibdzy.com/api.php/provide/vod?wd=%s",
       "detailUrl": "https://api.apibdzy.com/api.php/provide/vod?ac=videolist&ids=%s"
@@ -233,6 +239,12 @@
       "sourceName": "海胆影视",
       "searchUrl": "http://xf123.cc/api.php/app/search?pg=1&text=%s",
       "detailUrl": "http://xf123.cc/api.php/app/video_detail?id=%s"
+    },
+    {
+      "type": "jsonV1",
+      "sourceName": "苍蓝4K APP",
+      "searchUrl": "https://vip.ruifenglb.com:4433/api.php/app/search?pg=1&text=%s",
+      "detailUrl": "https://vip.ruifenglb.com:4433/api.php/app/video_detail?id=%s"
     },
     {
       "type": "jsonV1",
@@ -619,6 +631,7 @@
 	"http://dt.hwh.ink/home/api?type=ys&uid=1297351&key=acdfklopqvwyKLOT39&url=",
     "http://cx99999.cn/json.php?url="
 ,
+    "http://ts.yjhan.com:8090/api/?key=eoWvJ8pLvB6T30IBlt&url=",
     "https://ltjx.jeeves.vip/home/api?type=ys&uid=1589472&key=aehjpzAHILOPQRU456&url=",
     "http://www.zhaikanys.com/jx.php?url=",
     "https://jb.vjiangbei.com/home/api?type=ys&uid=2219260&key=hlmnpqswHIKQRSX146&url=",
@@ -630,6 +643,7 @@
   "contains": [
     "xueren",
     "LT-",
+    "CL4K",
     "renrenmi"
   ],
   "ads": [
