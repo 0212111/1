@@ -110,12 +110,6 @@
     },
     {
       "type": "json",
-      "sourceName": "苍蓝4K",
-      "searchUrl": "http://shangjihuoke.com/api.php/provide/vod/from/CL4K?wd=%s",
-      "detailUrl": "http://shangjihuoke.com/api.php/provide/vod/from/CL4K?ac=videolist&ids=%s"
-    },
-    {
-      "type": "json",
       "sourceName": "百度官方",
       "searchUrl": "https://api.apibdzy.com/api.php/provide/vod?wd=%s",
       "detailUrl": "https://api.apibdzy.com/api.php/provide/vod?ac=videolist&ids=%s"
@@ -244,7 +238,7 @@
       "type": "jsonV1",
       "sourceName": "苍蓝4K APP",
       "searchUrl": "https://vip.ruifenglb.com:4433/api.php/app/search?pg=1&text=%s",
-      "detailUrl": "https://vip.ruifenglb.com:4433/api.php/app/video_detail?id=%s"
+      "detailUrl": "https://vip.ruifenglb.com:4433/api.php/app/video_detail?id=40210"
     },
     {
       "type": "jsonV1",
