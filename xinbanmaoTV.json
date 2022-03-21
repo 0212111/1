@@ -17,10 +17,19 @@
     "categories":[]
   },
        {
+    "key":"饭后官采",
+    "name":"饭后官采",
+    "type":1,
+    "api":"http://yinliub.cn/api.php/provide/vod",
+    "searchable":1,
+    "quickSearch":1,
+    "categories":[]
+  },
+       {
     "key": "江北资源",
     "name": "江北资源",
     "type": 1,
-    "api": "https://gfzycj.hnmj.vip/api.php/provide/vod/",
+    "api": "https://gfzycj.hnmj.vip/api.php/provide/vod",
     "playUrl": ""
   },
        {
