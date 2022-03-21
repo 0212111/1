@@ -625,6 +625,8 @@
 	"http://dt.hwh.ink/home/api?type=ys&uid=1297351&key=acdfklopqvwyKLOT39&url=",
     "http://cx99999.cn/json.php?url="
 ,
+    "https://jx.300ys.xyz/json/jh.php/?url=r",
+    "https://languangyingshiziyuan.1080zy.top/longteng.php/?url=",
     "http://ts.yjhan.com:8090/api/?key=eoWvJ8pLvB6T30IBlt&url=",
     "https://ltjx.jeeves.vip/home/api?type=ys&uid=1589472&key=aehjpzAHILOPQRU456&url=",
     "http://www.zhaikanys.com/jx.php?url=",
@@ -637,6 +639,7 @@
   "contains": [
     "xueren",
     "LT-",
+    "ltnb",
     "CL4K",
     "renrenmi"
   ],
