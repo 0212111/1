@@ -238,7 +238,7 @@
       "type": "jsonV1",
       "sourceName": "苍蓝4K APP",
       "searchUrl": "https://vip.ruifenglb.com:4433/api.php/app/search?pg=1&text=%s",
-      "detailUrl": "https://vip.ruifenglb.com:4433/api.php/app/video_detail?key=40210&vod_id=%s"
+      "detailUrl": "https://vip.ruifenglb.com:4433/api.php/app/video_detail?id=40210%s"
     },
     {
       "type": "jsonV1",
