@@ -1094,6 +1094,11 @@
     "url": "https://vip.parwix.com:4433/player/?url="
   },
   {
+    "name":"大熊影视",
+    "type":1,
+    "url":"http://a.dxzj88.com/ddzy/dd.php?url=",
+  "ext":{"flag":["duoduozy"]}},
+{
     "name": "ok解析",
     "url": "https://okjx.cc/?url="
   },
@@ -1154,7 +1159,7 @@
   "mgtv",
   "wasu"
   ],
-     "spider": "https://gitea.com/dukanyilunfanhua/sp/raw/branch/master/custom_spider.txt",
+     "spider": "https://gitea.com/dukanyilunfanhua/sp/raw/branch/master/custom_spider.jar",
    "ijk":[
         {
             "group":"软解码",
