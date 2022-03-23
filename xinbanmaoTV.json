@@ -63,6 +63,16 @@
     "ext": "https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/Gimy.json"
 },
 {
+    "key": "csp_xpath_zxzj",
+    "name": "在线之家(XPMac)",
+    "type": 3,
+    "api": "csp_XPathMacFilter",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/zxzj.json"
+},
+{
     "key": "csp_xpath_libv",
     "name": "Libvio(XPMac)",
     "type": 3,
