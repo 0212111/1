@@ -686,8 +686,7 @@
 {"name":"4K影院","type":1,"url":"https://www.aiaine.com/api/?key=e4keFpymfY5keNsavC&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","pptv","PPTV","mgtv","芒果","youku","优酷"]}},
 {"name":"益达影院1","type":1,"url":"https://ltnb.jeeves.vip/home/api?type=ys&uid=2509623&key=glnpyADKLMNOTU0249&url=","ext":{"flag":["ltnb","ziqie"]}},
 {"name":"小极影视","type":1,"url":"https://jx.xiaoysw1.com/appjson/lt.php?url=","ext":{"flag":["ltnb"]}},
-{"name":"独播社","type":1,"url":"https://ltnb.jeeves.vip/home/api?type=ys&uid=2492729&key=bkmopwEFMNQSUWXZ67&url=","ext":{"flag":["ltnb","ziqie"]}}
-],
+{"name":"独播社","type":1,"url":"https://ltnb.jeeves.vip/home/api?type=ys&uid=2492729&key=bkmopwEFMNQSUWXZ67&url=","ext":{"flag":["ltnb","ziqie"]}},
      {
     "name":"json 江小白",
      "type":1,"url":"https://jb.vjiangbei.com/home/api?type=ys&uid=281459&key=ehklstxzDFHILRSV38&url="},
