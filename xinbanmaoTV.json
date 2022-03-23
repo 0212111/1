@@ -130,14 +130,14 @@
             "ext": "http://ccxg.xazhutu.com/xgapp.php/v1/"
  },
        {
-            "key": "csp_appys_追剧猫APP",
-            "name": "追剧猫APP",
+            "key": "csp_appys_筋斗云APP",
+            "name": "筋斗云APP",
             "type": 3,
             "api": "csp_AppYs",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://tv.kmtvb.com/api.php/v1.vod"
+            "ext": "https://tv.jindcloud.com/api.php/v1.vod"
  },
        {
             "key": "csp_appys_琅琊影视APP",
