@@ -40,7 +40,7 @@
     "searchable": 1,
     "quickSearch": 0,
     "filterable": 0,
-    "ext": "https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/auete.json"
+    "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/xpath/auete.json"
 },
 {
     "key": "csp_xpath_cokemv",
@@ -50,7 +50,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/cokemv.json"
+    "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/xpath/cokemv.json"
 },
 {
     "key": "Gimy",
@@ -60,7 +60,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/Gimy.json"
+    "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/xpath/Gimy.json"
 },
 {
     "key": "csp_xpath_zxzj",
@@ -70,7 +70,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/zxzj.json"
+    "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/xpath/zxzj.json"
 },
 {
     "key": "csp_xpath_libv",
@@ -80,7 +80,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/libv.json"
+    "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/xpath/libv.json"
 },
 {
     "key": "csp_xpath_lezhutv",
@@ -90,7 +90,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
-    "ext": "https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/lezhutv.json"
+    "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/xpath/lezhutv.json"
 },
 {
     "key": "csp_xpath_saohuotv",
@@ -100,7 +100,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
-    "ext": "https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/saohuotv2.json"
+    "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/xpath/saohuotv2.json"
 },
 {
     "key": "csp_xpath_zxzj",
@@ -110,7 +110,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/zxzj.json"
+    "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/xpath/zxzj.json"
 },
 {"key":"csp_appysv2_大熊","name":"大熊(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://dxys2233.com/mogai_api.php/v1.vod"},
 {"key":"csp_appysv2_流星","name":"流星(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://fkxs2233.com/mogai_api.php/v1.vod"},
