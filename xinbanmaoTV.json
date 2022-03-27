@@ -37,6 +37,13 @@
             "playUrl": ""
         },
         {
+            "key": "七七影视",
+            "name": "七七影视",
+            "type": 1,
+            "api": "https://www.77zy.vip/inc/m3u8.php",
+            "playUrl": ""
+        },
+        {
             "key": "csp_xpath_auete",
             "name": "Auete影视(XP)",
             "type": 3,
