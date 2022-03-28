@@ -327,6 +327,15 @@
             "ext": "http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"
         },
         {
+           "key":"苍蓝4K",
+           "name":"苍蓝4K",
+           "type":1,
+           "api":"http://shangjihuoke.com/api.php/provide/vod/from/CL4K",
+           "playUrl":"json:http://ts.yjhan.com:8090/api/?key=eoWvJ8pLvB6T30IBlt&url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+    }, {
             "key": "csp_appysv2_段友影视2",
             "name": "段友影视2(M2)",
             "type": 3,
