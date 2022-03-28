@@ -1555,8 +1555,10 @@
            "playUrl":"json:http://ts.yjhan.com:8090/api/?key=eoWvJ8pLvB6T30IBlt&url=",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
-    },
+            "categories": [
+                
+            ]
+        },
         {
             "key": "抹茶猪(龙腾)",
             "name": "抹茶猪(龙腾)",
