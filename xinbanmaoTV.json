@@ -1620,6 +1620,30 @@
             ]
         },
         {
+            "key": "FuckApp",
+            "name": "FuckApp",
+            "type": 1,
+            "api": "http://zhuiju8.vip/api.php/provide/vod/from/fuckapp/at/xml",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "酷云77",
+            "name": "酷云77",
+            "type": 1,
+            "api": "https://video.ykvideo.cn/api.php/provide/vod/from/ppayun/at/xml",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                
+            ]
+        },
+        {
             "key": "每天看看",
             "name": "每天看看",
             "type": 1,
