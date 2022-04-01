@@ -567,6 +567,16 @@
             "ext": "http://121.62.60.222:20222/mogai_api.php/v1.vod"
         },
         {
+            "key": "csp_appysv2_好6哦影视",
+            "name": "好6哦影视(M2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://hao6o.com/mogai_api.php/v1.vod"
+        },
+        {
             "key": "csp_appysv2_闲人视频",
             "name": "闲人视频(M2)",
             "type": 3,
