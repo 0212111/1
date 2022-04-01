@@ -7493,60 +7493,15 @@
         }
     ],
     "parses": [
-     {
-      "name": "江湖",
-      "type": 1,
-      "url": "https://a.dxzj88.com/jhjhjx/?url="
-    },
-    {
-      "name": "天诚",
-      "type": 1,
-      "url": "http://jf.1920lgzy.top/api/?key=CdBsdvGs0DFKrKG2fI&url="
-    },
-    {
-      "name": "辰欣",
-      "type": 1,
-      "url": "https://apis.jxcxin.cn/api/jx?url="
-    },
-    {
-      "name": "夜神",
-      "type": 1,
-      "url": "https://json.csjcdn.cn/byte/?key=CAzffab5SGcymwxdfQ&url="
-    },
     {
       "name": "左岸",
       "type": 1,
       "url": "https://jx.parwix.com:4433/player/analysis.php?v="
     },
     {
-      "name": "右岸",
-      "type": 1,
-      "url": "http://106.55.104.179:7788/apppi.php?url="
-    },
-    {
       "name": "云梦",
       "type": 1,
       "url": "https://jx.yunml.vip/player/analysis.php?v="
-    },
-    {
-      "name": "三江",
-      "type": 1,
-      "url": "https://jx.300ys.xyz/json/jh.php/?url="
-    },
-    {
-      "name": "腾讯专解",
-      "type": 1,
-      "url": "http://211.99.98.201:9797/mp4/5.1?url="
-    },
-    {
-      "name": "白嫖",
-      "type": 1,
-      "url": "https://json.hfyrw.com/mao.go?url="
-    },
-    {
-      "name": "桃聚",
-      "type": 1,
-      "url": "http://106.75.184.231:4433/cnmbhbh/?url="
     },
     {
       "name": "乐更",
