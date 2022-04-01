@@ -117,16 +117,6 @@
             "ext": "https://dxys2233.com/mogai_api.php/v1.vod"
         },
         {
-            "key": "csp_appysv2_鸭奈飞",
-            "name": "鸭奈飞(海)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://netflix.mom/api.php/app/"
-        },
-        {
             "key": "csp_appysv2_流星",
             "name": "流星(M2)",
             "type": 3,
