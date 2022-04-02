@@ -1,42 +1,6 @@
 {
     "sites": [
         {
-            "key": "诺讯官采",
-            "name": "诺讯官采",
-            "type": 1,
-            "api": "http://caiji.nxflv.com/api.php/provide/vod/",
-            "playUrl": ""
-        },
-        {
-            "key": "雪人官采",
-            "name": "雪人官采",
-            "type": 1,
-            "api": "https://zl.qd234.cn/api.php/provide/vod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-                
-            ]
-        },
-        {
-            "key": "饭后官采",
-            "name": "饭后官采",
-            "type": 1,
-            "api": "http://yinliub.cn/api.php/provide/vod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-                
-            ]
-        },
-        {
-            "key": "江北资源",
-            "name": "江北资源",
-            "type": 1,
-            "api": "https://gfzycj.hnmj.vip/api.php/provide/vod",
-            "playUrl": ""
-        },
-        {
             "key": "csp_xpath_auete",
             "name": "Auete影视(XP)",
             "type": 3,
@@ -1497,6 +1461,17 @@
             ]
         },
         {
+            "key": "饭后官采",
+            "name": "饭后官采",
+            "type": 1,
+            "api": "http://yinliub.cn/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                
+            ]
+        },
+        {
             "key": "雪人官采",
             "name": "雪人官采",
             "type": 1,
@@ -1520,7 +1495,17 @@
                 
             ]
         },
-        {
+     {
+      "key":"if101资源",
+      "name":"if101资源",
+      "type":0,
+      "api":"https://demo.if101.tv/api.php/provide/vod/at/xml",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0
+         
+     },
+      {
             "key": "灯塔资源",
             "name": "灯塔资源",
             "type": 1,
