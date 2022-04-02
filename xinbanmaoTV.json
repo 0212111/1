@@ -67,15 +67,6 @@
             "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/Gimy.json"
         },
         {
-    "key": "csp_YydsAli1",
-    "name": "YYDS阿里(爬虫)",
-    "type": 3,
-    "api": "csp_YydsAli1",
-    "searchable": 1,
-    "quickSearch": 0,
-    "filterable": 0
-        },
-        {
             "key": "csp_xpath_libv",
             "name": "Libvio(XPMac)",
             "type": 3,
