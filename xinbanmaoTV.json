@@ -1647,7 +1647,7 @@
             "name": "鸭奈飞",
             "type": 1,
             "api": "http://newtv.yanaifei.cn/api.php/provide/vod/",
-            "playUrl": "https://newtv.yanaifei.cn/jx/pjx.php?pid=",
+            "playUrl": "json:https://newtv.yanaifei.cn/jx/pjx.php?pid=",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
