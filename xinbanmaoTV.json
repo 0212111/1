@@ -181,6 +181,16 @@
             "ext": "http://hanyun.ml/api.php/v1.vod"
         },
         {
+            "key": "csp_appysv2_UM影院",
+            "name": "UM影院(M2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://www.2tu.uk/api.php/v1.vod"
+        },
+        {
             "key": "csp_appysv2_CJT影院",
             "name": "CJT影院(M2)",
             "type": 3,
