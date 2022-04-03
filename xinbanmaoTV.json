@@ -1646,7 +1646,7 @@
             "key": "鸭奈飞",
             "name": "鸭奈飞",
             "type": 1,
-            "api": "http://newtv.yanaifei.cn/api.php/provide/vod/at/xml",
+            "api": "http://newtv.yanaifei.cn/api.php/provide/vod/",
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
