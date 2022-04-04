@@ -91,6 +91,16 @@
             "ext": "https://www.mhz8.com/api.php/v1.vod"
         },
         {
+            "key": "csp_appysv2_蓝风影视",
+            "name": "蓝风影视(M2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://www.ruchuplus.cn/api.php/v1.vod"
+        },
+        {
             "key": "csp_appysv2_影视猫",
             "name": "影视猫(M2)",
             "type": 3,
