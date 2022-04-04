@@ -791,6 +791,16 @@
             "ext": "https://www.hzlff.cn/api.php/v1.vod"
         },
         {
+            "key": "csp_appysv2_天空影视",
+            "name": "天空影视(M2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://www.tkys.tv/xgapp.php/v2/"
+        },
+        {
             "key": "csp_appysv2_百淘影视",
             "name": "百淘影视(M2)",
             "type": 3,
