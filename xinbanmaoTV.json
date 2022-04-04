@@ -71,8 +71,8 @@
             "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/zxzj.json"
         },
         {
-            "key": "csp_appysv2_六神影视",
-            "name": "六神影视APP",
+            "key": "csp_appysv2_六神追剧",
+            "name": "六神追剧APP",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
