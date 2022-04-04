@@ -81,6 +81,16 @@
             "ext": "https://www.mhz8.com/api.php/v1.vod"
         },
         {
+            "key": "csp_appysv2_影视猫",
+            "name": "影视猫(M2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://vip.wscyun.com/api.php/v1.vod"
+        },
+        {
             "key": "csp_appysv2_樱恋雨影视",
             "name": "樱恋雨影视(M2)",
             "type": 3,
