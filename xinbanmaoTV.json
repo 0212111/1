@@ -81,6 +81,16 @@
             "ext": "https://www.mhz8.com/api.php/v1.vod"
         },
         {
+            "key": "csp_appysv2_5秒看电影",
+            "name": "5秒看电影(M2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://www.5skan.com/mogai_api.php/v1.vod"
+        },
+        {
             "key": "csp_appysv2_大熊",
             "name": "大熊(M2)",
             "type": 3,
