@@ -71,6 +71,16 @@
             "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/zxzj.json"
         },
         {
+            "key": "csp_appysv2_六神影视",
+            "name": "六神影视APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://6sys.xinluan.live/api.php/app/"
+        },
+        {
             "key": "csp_appysv2_视中影院",
             "name": "视中影院APP",
             "type": 3,
