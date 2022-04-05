@@ -271,16 +271,6 @@
             "ext": "http://hgyx.vip/api.php/v1.vod"
         },
         {
-            "key": "csp_appysv2_嗷呜视频",
-            "name": "嗷呜视频(M2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "http://www.cx99999.cn/lvdou_api.php/v1.vod"
-        },
-        {
             "key": "csp_appysv2_Hi影视",
             "name": "Hi影视(M2)",
             "type": 3,
