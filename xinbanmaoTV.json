@@ -1760,18 +1760,6 @@
                 
             ]
         },
-         {
-            "key": "酷云77",
-            "name": "酷云77",
-            "type": 1,
-            "api": "https://video.ykvideo.cn/api.php/provide/vod/from/ppayun",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-                
-            ]
-        },
        {
             "key": "一拳动漫",
             "name": "一拳动漫",
