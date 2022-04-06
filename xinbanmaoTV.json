@@ -361,6 +361,16 @@
             "ext": "http://35ys.cc/api.php/v1.vod"
         },
         {
+            "key": "csp_appysv2_叮当影视",
+            "name": "叮当影视(M2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://tv.0573wl.com/api.php/v1.vod"
+        },
+        {
             "key": "csp_appysv2_钟特影视",
             "name": "钟特影视(M2)",
             "type": 3,
