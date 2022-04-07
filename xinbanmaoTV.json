@@ -2061,6 +2061,26 @@
             ]
         },
         {
+            "key": "酷云77",
+            "name": "酷云77",
+            "type": 1,
+            "api": "https://video.ykvideo.cn/api.php/provide/vod/from/ppayun",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "FuckApp",
+            "name": "FuckApp",
+            "type": 1,
+            "api": "http://zhuiju8.vip/api.php/provide/vod/from/fuckapp",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
             "key": "易看视频",
             "name": "易看视频",
             "type": 1,
