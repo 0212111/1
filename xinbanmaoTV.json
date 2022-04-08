@@ -361,6 +361,16 @@
             "ext": "https://www.18mv.club/api.php/v1.vod"
         },
         {
+            "key": "csp_appysv2_次元动漫",
+            "name": "次元动漫(M2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://81.68.211.181/lvdou_api.php/v1.vod"
+        },
+        {
             "key": "csp_appysv2_独播社",
             "name": "独播社(M2)",
             "type": 3,
@@ -961,6 +971,16 @@
             "ext": "https://jiku.vip/mogai_api.php/v1.vod"
         },
         {
+            "key": "csp_appysv2_玖肆资源",
+            "name": "玖肆资源(M2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://android.jiusi.vip/mogai_api.php/v1.vod"
+        },
+        {
             "key": "csp_appysv2_橘子影视",
             "name": "橘子影视(M2)",
             "type": 3,
@@ -1209,6 +1229,16 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "https://tv.arbd.cn/api.php/v1.vod"
+        },
+        {
+            "key": "csp_appysv2_星宿漫",
+            "name": "星宿漫(M2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://3.xingxiuman.com/mogai_api.php/v1.vod"
         },
         {
             "key": "csp_appysv2_月儿影视",
