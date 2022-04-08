@@ -91,6 +91,16 @@
             "ext": "https://www.mhz8.com/api.php/v1.vod"
         },
         {
+            "key": "csp_appysv2_1080kk",
+            "name": "1080kk(M2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://123.250idc.com/mogai_api.php/v1.vod"
+        },
+        {
             "key": "csp_appysv2_蓝风影视",
             "name": "蓝风影视(M2)",
             "type": 3,
@@ -3461,6 +3471,21 @@
             "name": "爱酷影视6",
             "type": 1,
             "url": "https://jb.vjiangbei.com/home/api?type=ys&uid=646808&key=gklpqrtwyDIJKMP467&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "letv",
+                    "乐视",
+                    "youku",
+                    "优酷"
+                ]
+            }
+        },
+        {
+            "name": "1080kk",
+            "type": 1,
+            "url": "https://v.2080kk.com/home/api?type=ys&uid=1308653&key=jknoxBFMPQWXY13458&url=",
             "ext": {
                 "flag": [
                     "qq",
