@@ -91,6 +91,16 @@
             "ext": "https://www.mhz8.com/api.php/v1.vod"
         },
         {
+            "key": "csp_appysv2_大象影视",
+            "name": "大象影视(M2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://vip.91iqiyi.com/mogai_api.php/v1.vod"
+        },
+        {
             "key": "csp_appysv2_F7高清",
             "name": "F7高清(M2)",
             "type": 3,
