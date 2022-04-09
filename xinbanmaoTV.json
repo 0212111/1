@@ -6,8 +6,8 @@
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
             "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/auete.json"
         },
         {
@@ -47,7 +47,7 @@
             "api": "csp_XPathMac",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
+            "filterable": 1,
             "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/lezhutv.json"
         },
         {
@@ -57,7 +57,7 @@
             "api": "csp_XPath",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
+            "filterable": 1,
             "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/saohuotv2.json"
         },
         {
@@ -76,7 +76,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://6sys.xinluan.live/api.php/app/"
         },
@@ -86,7 +86,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.mhz8.com/api.php/v1.vod"
         },
@@ -96,7 +96,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://xunbo.tv/lvdou_api.php/v1.vod"
         },
@@ -106,7 +106,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://123.250idc.com/mogai_api.php/v1.vod"
         },
@@ -116,7 +116,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://www.ruchuplus.cn/api.php/v1.vod"
         },
@@ -126,7 +126,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://v.lovebuy365.com/mogai_api.php/v1.vod"
         },
@@ -136,7 +136,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://vip.wscyun.com/api.php/v1.vod"
         },
@@ -146,7 +146,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://yingshi.miaomemg.com/api.php/v1.vod"
         },
@@ -156,7 +156,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.5skan.com/mogai_api.php/v1.vod"
         },
@@ -166,7 +166,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://dxys2233.com/mogai_api.php/v1.vod"
         },
@@ -176,7 +176,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://fkxs2233.com/mogai_api.php/v1.vod"
         },
@@ -186,7 +186,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://qnys5566.com/mogai_api.php/v1.vod"
         },
@@ -196,7 +196,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://szys5678.com/mogai_api.php/v1.vod"
         },
@@ -206,7 +206,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://xays6677.com/mogai_api.php/v1.vod"
         },
@@ -216,7 +216,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://zsb2233.com/mogai_api.php/v1.vod"
         },
@@ -226,7 +226,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://ytys3456.com/mogai_api.php/v1.vod"
         },
@@ -236,7 +236,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://300ys.xyz/api.php/v1.vod"
         },
@@ -246,7 +246,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://1api.4kdytv.com/api.php/v1.vod"
         },
@@ -256,7 +256,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://hanyun.ml/api.php/v1.vod"
         },
@@ -266,7 +266,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.2tu.uk/api.php/v1.vod"
         },
@@ -276,7 +276,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.cjt521.com/api.php/v1.vod"
         },
@@ -286,7 +286,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://chaorenbb.com/api.php/v1.vod"
         },
@@ -296,7 +296,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://hgyx.vip/api.php/v1.vod"
         },
@@ -306,7 +306,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://114.132.251.111:999/lvdou_api.php/v1.vod"
         },
@@ -316,7 +316,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://app.tvip.cc/api.php/v1.vod"
         },
@@ -326,7 +326,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.uumjw.com/api.php/v1.vod"
         },
@@ -336,7 +336,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
         },
@@ -346,7 +346,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://87dyba.com/mogai_api.php/v1.vod"
         },
@@ -356,7 +356,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://81.71.18.95:5555/mogai_api.php/v1.vod"
         },
@@ -366,7 +366,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://zgjxdtg.cn/api.php/v1.vod"
         },
@@ -376,7 +376,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.18mv.club/api.php/v1.vod"
         },
@@ -386,7 +386,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://81.68.211.181/lvdou_api.php/v1.vod"
         },
@@ -396,7 +396,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://35ys.cc/api.php/v1.vod"
         },
@@ -406,7 +406,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://tv.0573wl.com/api.php/v1.vod"
         },
@@ -416,7 +416,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://app.zteys.com/api.php/v1.vod"
         },
@@ -426,7 +426,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"
         },
@@ -436,7 +436,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://shangjihuoke.com/api.php/tv.vod"
         },
@@ -446,7 +446,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://baicai.summ.vip/api.php/v1.vod"
         },
@@ -456,7 +456,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.fj6080.com/api.php/v1.vod"
         },
@@ -466,7 +466,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://42.157.129.15:34444/lvdou_api.php/v1.vod"
         },
@@ -476,7 +476,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://vv.humaoweb.com/mogai_api.php/gctvapi.vod"
         },
@@ -486,7 +486,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://yidayy.top/lehailb_api.php/v1.vod"
         },
@@ -496,7 +496,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://kk.ccboke.top/ruifenglb_api.php/v1.vod"
         },
@@ -506,7 +506,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://124.222.126.23:999/mogai_api.php/v1.vod"
         },
@@ -516,7 +516,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://pro.6bd.net/mogai_api.php/v1.vod"
         },
@@ -526,7 +526,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://www.69ty.cc/mogai_api.php/v1.vod"
         },
@@ -536,7 +536,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://ys.ling00.cn/api.php/v1.vod"
         },
@@ -546,7 +546,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://fgyuu.top/lehailb_api.php/v1.vod"
         },
@@ -556,7 +556,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://app.f8tp.com/lvdou_api.php/v1.vod"
         },
@@ -566,7 +566,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://aliyun.k8aa.com/mogai_api.php/v1.vod"
         },
@@ -576,7 +576,7 @@
             "type": 3,
             "api": "csp_AppYs",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://meijuchong.com/api.php/v1.vod"
         },
@@ -586,7 +586,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://app.netflixmi.com/api.php/v1.vod"
         },
@@ -596,7 +596,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://iapp.nfuxs.club/dnmb.php/v1.vod"
         },
@@ -606,7 +606,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://app.bl210.com/api.php/v1.vod"
         },
@@ -616,7 +616,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://150.158.133.36:9904/qingdoujiekou.php/v1.vod"
         },
@@ -626,7 +626,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://tv.yjhan.com:4423/ruifenglb_api.php/v1.vod"
         },
@@ -636,7 +636,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://tcspvip.cn/mogai_api.php/v1.vod"
         },
@@ -646,7 +646,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://app.daishusc.com/api.php/v1.vod"
         },
@@ -656,7 +656,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://121.62.60.222:20222/mogai_api.php/v1.vod"
         },
@@ -666,7 +666,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://hao6o.com/mogai_api.php/v1.vod"
         },
@@ -676,7 +676,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://yingshi.xibiandexianren.cn/lvdou_api.php/v1.vod"
         },
@@ -686,7 +686,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://zy.qd234.cn/mogai_api.php/v1.vod"
         },
@@ -696,7 +696,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://mkk.gotka.top/api.php/v1.vod"
         },
@@ -706,7 +706,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://luobu.yss6080.com/mogai_api.php/v1.vod"
         },
@@ -716,7 +716,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://2.yhys63.com/api.php/v1.vod"
         },
@@ -726,7 +726,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://app.okmedcos.com/api.php/v1.vod"
         },
@@ -736,7 +736,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://www.ysdr.vip/api.php/v1.vod"
         },
@@ -746,7 +746,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://69ty.cc/mogai_api.php/v1.vod"
         },
@@ -756,7 +756,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://app.ysys.asia/lvdou_api.php/v1.vod"
         },
@@ -766,7 +766,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://221.236.18.12:665/api.php/v1.vod"
         },
@@ -776,7 +776,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://zhuiju8.vip/api.php/v1.vod"
         },
@@ -786,7 +786,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://51shipin.cc/mogai_api.php/v1.vod"
         },
@@ -796,7 +796,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://appys.jdodo.xyz/mogai_api.php/v1.vod"
         },
@@ -806,7 +806,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://appx.uy07.com/api.php/v1.vod"
         },
@@ -816,7 +816,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://jx.wnvod.net/ruifenglb_api.php/v1.vod"
         },
@@ -826,7 +826,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://aliys.cn:90/api.php/v1.vod"
         },
@@ -836,7 +836,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.aitee.cc/api.php/v1.vod"
         },
@@ -846,7 +846,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://cx99999.cn/lvdou_api.php/v1.vod"
         },
@@ -856,7 +856,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.hzlff.cn/api.php/v1.vod"
         },
@@ -866,7 +866,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.tkys.tv/xgapp.php/v2/"
         },
@@ -876,7 +876,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://ys.58g8.com/lvdou_api.php/v1.vod"
         },
@@ -886,7 +886,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://yuenos-pro.miyuen.cn/qingdoujiekou.php/v1.vod"
         },
@@ -896,7 +896,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://0hzy.cn:9990/mogai_api.php/v1.vod"
         },
@@ -906,7 +906,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://vip.davdy.com/ruifenglb_api.php/v1.vod"
         },
@@ -916,7 +916,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://douzhayss.cc/api.php/v1.vod"
         },
@@ -926,7 +926,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://vip.shenyunwl.cn/mogai_api.php/v1.vod"
         },
@@ -936,7 +936,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://i.ledu8.cn/api.php/v1.vod"
         },
@@ -946,7 +946,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://hantv.top/api.php/v1.vod"
         },
@@ -956,7 +956,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://i.nihaohezi.com/api.php/v1.vod"
         },
@@ -966,7 +966,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://tv.jindcloud.com/api.php/v1.vod"
         },
@@ -976,7 +976,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://app.jhystv.com/mogai_api.php/v1.vod"
         },
@@ -986,7 +986,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://jiku.vip/mogai_api.php/v1.vod"
         },
@@ -996,7 +996,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://android.jiusi.vip/mogai_api.php/v1.vod"
         },
@@ -1006,7 +1006,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://jz.juzidy.vip/mogai_api.php/v1.vod"
         },
@@ -1016,7 +1016,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://app.ishen520.com/api.php/v1.vod"
         },
@@ -1026,7 +1026,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.kankanju.cn/api.php/v1.vod"
         },
@@ -1036,7 +1036,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://888.ccboke.top/ruifenglb_api.php/v1.vod"
         },
@@ -1046,7 +1046,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://len.tv/api.php/v1.vod"
         },
@@ -1056,7 +1056,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.leyun.tv/api.php/v1.vod"
         },
@@ -1066,7 +1066,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://111.229.120.180:88/lvdou_api.php/v1.vod"
         },
@@ -1076,7 +1076,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://ttzmz.net/api.php/v1.vod"
         },
@@ -1086,7 +1086,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://998.yuanmajs.cn/api.php/v1.vod"
         },
@@ -1096,7 +1096,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://renxingkan.net/api.php/v1.vod"
         },
@@ -1106,7 +1106,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://app.ruchu.cloud/api.php/v1.vod"
         },
@@ -1116,7 +1116,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://app.siqitv.vip/mogai_api.php/v1.vod"
         },
@@ -1126,7 +1126,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.3ri.net/api.php/v1.vod"
         },
@@ -1136,7 +1136,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://app.shuhai99.com/api.php/v1.vod"
         },
@@ -1146,7 +1146,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://app.qianju.cc/api.php/v1.vod"
         },
@@ -1156,7 +1156,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://cj.huimaojia.com:12345/mogai_api.php/v1.vod"
         },
@@ -1166,7 +1166,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.genmov.com/mogai_api.php/v1.vod"
         },
@@ -1176,7 +1176,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://app.5lp.net/api.php/v1.vod"
         },
@@ -1186,7 +1186,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://woniudm.woniu.cyou:20000/mogai_api.php/v1.vod"
         },
@@ -1196,7 +1196,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://dongman.k8aa.com/mogai_api.php/v1.vod"
         },
@@ -1206,7 +1206,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://anegh.com/lvdou_api.php/v1.vod"
         },
@@ -1216,7 +1216,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://xydm.baicai.buzz/mogai_api.php/v1.vod"
         },
@@ -1226,7 +1226,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://3ketv.com/mogai_api.php/v1.vod"
         },
@@ -1236,7 +1236,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://119.29.121.48:8088/api.php/v1.vod"
         },
@@ -1246,7 +1246,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://tv.arbd.cn/api.php/v1.vod"
         },
@@ -1256,7 +1256,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://yue52.xyz/api.php/v1.vod"
         },
@@ -1266,7 +1266,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://xc.xixi2yy.xyz/mogai_api.php/v1.vod"
         },
@@ -1276,7 +1276,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://luobo.yugenye.site/api.php/v1.vod"
         },
@@ -1286,7 +1286,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://yz.26ys.cn/api.php/v1.vod"
         },
@@ -1296,7 +1296,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://tv.kmtvb.com/api.php/v1.vod"
         },
@@ -1306,7 +1306,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://phoebe.cf/api.php/iptv/vod/"
         },
@@ -1316,7 +1316,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://www.cccvvv.top/api.php/iptv/vod/"
         },
@@ -1326,7 +1326,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://api.hgyx.vip/api.php/iptv/vod/"
         },
@@ -1336,7 +1336,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://tv2.aixixi.vip/api.php/iptv/vod/"
         },
@@ -1346,7 +1346,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://tv.hyddys.top/api.php/iptv/vod/"
         },
@@ -1356,7 +1356,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://dsxtv.tv.ci/api.php/dsx/vod/"
         },
@@ -1366,7 +1366,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://d.zjj.life:88/mv/api.php/Chengcheng/vod/"
         },
@@ -1376,7 +1376,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://cms.feifan12.xyz/api.php/iptv/vod/"
         },
@@ -1386,7 +1386,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://diancj.zhenfy.cn/api.php/Chengcheng/vod/"
         },
@@ -1396,7 +1396,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://tv.hfys8.vip/api.php/Sntv/vod/"
         },
@@ -1406,7 +1406,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://vip.ji-ding-he.site/api.php/iptv/vod/"
         },
@@ -1416,7 +1416,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://jdyy.weetai.cn/api.php/iptv/vod/"
         },
@@ -1426,7 +1426,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://jpsb.yhzy.xyz/api.php/iptv/vod/"
         },
@@ -1436,7 +1436,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://293x.yhzy.xyz/mv/api.php/Chengcheng/vod/"
         },
@@ -1446,7 +1446,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://api.zjys.vip/api.php/iptv/vod/"
         },
@@ -1456,7 +1456,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://vv.miguotv.net/m/api.php/Chengcheng/vod/"
         },
@@ -1466,7 +1466,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://42.51.37.161:2346/api.php/iptv/vod/"
         },
@@ -1476,7 +1476,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://106.12.113.90:6565/api.php/iptv/vod/"
         },
@@ -1486,7 +1486,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://www.s6ep3.top/api.php/iptv/vod/"
         },
@@ -1496,7 +1496,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://rxw.ruoxinew.com/api.php/Sntv/vod/"
         },
@@ -1506,7 +1506,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://tv.siqitv.vip/api.php/iptv/vod/"
         },
@@ -1516,7 +1516,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://dy6.dcd1.cn/api.php/iptv/vod/"
         },
@@ -1526,7 +1526,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://tv.tkys.tv/api.php/iptv/vod/"
         },
@@ -1536,7 +1536,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://tv.cmt8.xyz/api.php/iptv/vod/"
         },
@@ -1546,7 +1546,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://tv2.hetaoys.vip/api.php/iptv/vod/"
         },
@@ -1556,7 +1556,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "http://216.98.10.85/api.php/iptv/vod/"
         },
@@ -2776,8 +2776,8 @@
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
             "ext": "https://cncncloud.com/api/v3/file/source/3066608/%E9%A5%AD%E5%9B%A2%E5%BD%B1%E9%99%A2.json?sign=XkhkjQ0TSEa6fct-Iw5EtBkHX45tJj82ldYWqD98BSc%3D%3A0"
         },
         {
@@ -2816,7 +2816,7 @@
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://cncncloud.com/api/v3/file/source/3064155/yhdm.json?sign=D7Ln4EnjZILBPy7fHx4p6LCFTBOBKDkdoCgwI3WYyZA%3D%3A0"
         },
@@ -2826,7 +2826,7 @@
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://cncncloud.com/api/v3/file/source/3064473/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json?sign=QwPfl0Tr7SHXn-SwPxVOKjtsPsM1oXETiclj9CWT8rw%3D%3A0"
         },
