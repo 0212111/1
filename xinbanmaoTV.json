@@ -91,6 +91,16 @@
             "ext": "https://www.mhz8.com/api.php/v1.vod"
         },
         {
+            "key": "csp_appysv2_F7高清",
+            "name": "F7高清(M2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://bc.haokanju1.cc/lvdou_api.php/v1.vod"
+        },
+        {
             "key": "csp_appysv2_迅播影音",
             "name": "迅播影音(M2)",
             "type": 3,
