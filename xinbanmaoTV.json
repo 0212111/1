@@ -91,6 +91,16 @@
             "ext": "https://www.mhz8.com/api.php/v1.vod"
         },
         {
+            "key": "csp_appysv2_我爱电影网",
+            "name": "我爱电影网(M2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.haokanju.cc/api.php/v1.vod"
+        },
+        {
             "key": "csp_appysv2_大象影视",
             "name": "大象影视(M2)",
             "type": 3,
@@ -3273,6 +3283,29 @@
             "ext": {
                 "flag": [
                     "ltnb"
+                ]
+            }
+        },
+        {
+            "name": "我爱电影网",
+            "type": 1,
+            "url": "https://jhpc.manduhu.com/j1217.php?url=",
+            "ext": {
+                "flag": [
+                    "youku",
+                    "优酷",
+                    "qq",
+                    "腾讯",
+                    "ipiyi",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "mgtv",
+                    "芒果",
+                    "搜狐",
+                    "sohu",
+                    "乐视",
+                    "letv"
                 ]
             }
         },
