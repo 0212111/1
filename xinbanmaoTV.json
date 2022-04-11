@@ -1775,7 +1775,7 @@
             "name": "番茄资源",
             "type": 1,
             "api": "http://api.fqzy.cc/api.php/provide/vod/",
-            "playUrl": "https://jx.fqzy.cc/jx.php?url=",
+            "playUrl": "https://jiexi.fqplayer.com/player/jx.php?url=",
             "categories": [
                 
             ]
