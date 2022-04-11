@@ -2956,7 +2956,7 @@
         {
             "name": "300ys01",
             "type": 1,
-            "url": "https://jx.300ys.xyz/jiexi/v.php/?url=",
+            "url": "https://jiexi.300ys.xyz/json/jhjx.php/?url=",
             "ext": {
                 "flag": [
                     "mgtv",
@@ -2970,9 +2970,9 @@
             }
         },
         {
-            "name": "300ys02",
+            "name": "飓风影视",
             "type": 1,
-            "url": "https://jx.300ys.xyz/json/jh.php/?url=",
+            "url": "https://vvip.funsline.cn/api/?key=MPbC1MDs0vP0cKKOoV&url=",
             "ext": {
                 "flag": [
                     "youku",
