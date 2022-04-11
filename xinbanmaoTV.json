@@ -91,6 +91,26 @@
             "ext": "https://www.mhz8.com/api.php/v1.vod"
         },
         {
+            "key": "csp_appysv2_星月追剧",
+            "name": "星月追剧(海)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://xingyuezhuiju.com/api.php/app/"
+        },
+        {
+            "key": "csp_appysv2_躺平影视",
+            "name": "躺平影视(海)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.lltpys.com/api.php/app/"
+        },
+        {
             "key": "csp_appysv2_余生影视",
             "name": "余生影视(M2)",
             "type": 3,
