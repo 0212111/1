@@ -2931,12 +2931,11 @@
             "url": "Sequence"
         },
         {
-            "name": "humaosp01",
+            "name": "大威电影",
             "type": 1,
-            "url": "https://humaosp.com/json.php?url=",
+            "url": "https://cs.024zs.com:4433/api/?key=y3qnopZ0kW5zjGmHuH&url=",
             "ext": {
                 "flag": [
-                    "ltnb",
                     "qq",
                     "腾讯",
                     "qiyi",
