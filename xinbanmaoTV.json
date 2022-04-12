@@ -4015,7 +4015,7 @@
         {
             "name": "饭后电影1",
             "type": 1,
-            "url": "http://jx.yinliub.cn/home/api?type=ys&uid=512130&key=dinstuwBGJRTUY0369&url=",
+            "url": "http://106.75.184.231:4433/cnmbhbh111/?url=",
             "ext": {
                 "flag": [
                     "ltnb",
@@ -4028,9 +4028,7 @@
                     "乐视",
                     "rx",
                     "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果"
+                    "优酷"
                 ]
             }
         },
