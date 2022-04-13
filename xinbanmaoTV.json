@@ -190,6 +190,16 @@
             "ext": "http://www.lltpys.com/api.php/app/"
         },
         {
+            "key": "csp_appysv2_藤蔓影院",
+            "name": "藤蔓影视(M2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://tengwan.yinliub.cn/lvdou_api.php/v1.vod"
+        },
+        {
             "key": "csp_appysv2_万能影院",
             "name": "万能影院(M2)",
             "type": 3,
