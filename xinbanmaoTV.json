@@ -2055,7 +2055,7 @@
             "name": "奈菲迷",
             "type": 1,
             "api": "https://app.netflixmi.com/ruifenglb_api.php/provide/vod/",
-            "playUrl": "",
+            "playUrl": "json:https://vvip.funsline.cn/api/?type=ys&key=fK6x076k18LU34x02N&ur=",
             "categories": [
                 
             ]
