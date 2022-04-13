@@ -3107,8 +3107,8 @@
         },
         {
             "name": "奈菲迷",
-            "type": 0,
-            "url": "https://vvip.funsline.cn/api/?type=app&key=fK6x076k18LU34x02N&ur=",
+            "type": 1,
+            "url": "https://vvip.funsline.cn/api/?type=ys&key=fK6x076k18LU34x02N&ur=",
             "ext": {
                 "flag": [
                     "muxm3u8"
