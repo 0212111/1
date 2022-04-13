@@ -121,16 +121,6 @@
             "ext": "http://yinliub.cn/lvdou_api.php/v1.vod"
         },
         {
-            "key": "csp_appysv2_创意影视",
-            "name": "创意影视(M2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.30dian.cn/api.php/v1.vod"
-        },
-        {
             "key": "csp_appysv2_流星影院",
             "name": "流星影院(M2)",
             "type": 3,
