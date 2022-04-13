@@ -90,36 +90,6 @@
                 "searchable": 1
             },
             {
-                "ext": "http://inews.gtimg.com/newsapp_ls/0/14743078705/0",
-                "filterable": 1,
-                "quickSearch": 1,
-                "name": "Auete(SP)",
-                "api": "csp_Auete",
-                "type": 3,
-                "key": "auete_spider",
-                "searchable": 1
-            },
-            {
-                "ext": "http://inews.gtimg.com/newsapp_ls/0/14743078725/0",
-                "filterable": 1,
-                "quickSearch": 0,
-                "name": "真不卡(SP)",
-                "api": "csp_Buka",
-                "type": 3,
-                "key": "buka_spider",
-                "searchable": 0
-            },
-            {
-                "ext": "http://inews.gtimg.com/newsapp_ls/0/14743078744/0",
-                "filterable": 1,
-                "quickSearch": 1,
-                "name": "饭团(SP)",
-                "api": "csp_Ftys",
-                "type": 3,
-                "key": "ftys_spider",
-                "searchable": 1
-            },
-            {
                 "key": "csp_xpath_auete",
                 "name": "Auete影视(XP)",
                 "type": 3,
