@@ -1,4 +1,5 @@
 点播：
+奈菲迷,https://app.netflixmi.com/ruifenglb_api.php/provide/vod/at/xml,解析
 芒果,http://zy.yilans.net:8090/api.php/provide/vod/from/mgtv/at/xml,解析
 奇艺,http://zy.yilans.net:8090/api.php/provide/vod/from/qiyi/at/xml,解析
 腾讯,http://zy.yilans.net:8090/api.php/provide/vod/from/qq/at/xml,解析
