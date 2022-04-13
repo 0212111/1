@@ -2141,7 +2141,7 @@
         },
         {
             "key": "开放云",
-            "name": "开放云（X5）",
+            "name": "开放云（请使用EXO播放器）",
             "type": 1,
             "api": "https://z.iopenyun.com:99/apiopy.php/provide/vod/from/Tcm3u8/",
             "playUrl": "https://api.iopenyun.com:88/vips/?url=",
