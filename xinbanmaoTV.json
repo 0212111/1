@@ -2051,10 +2051,10 @@
             ]
         },
         {
-            "key": "人人迷蓝光",
-            "name": "人人迷蓝光",
+            "key": "奈菲迷",
+            "name": "奈菲迷",
             "type": 1,
-            "api": "https://koko.renrenmi.cc/api.php/provide/vod/",
+            "api": "https://app.netflixmi.com/ruifenglb_api.php/provide/vod/",
             "playUrl": "",
             "categories": [
                 
