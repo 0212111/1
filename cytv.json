@@ -1,5 +1,4 @@
 点播：
-奈菲迷,https://app.netflixmi.com/ruifenglb_api.php/provide/vod/at/xml,解析
 芒果,http://zy.yilans.net:8090/api.php/provide/vod/from/mgtv/at/xml,解析
 奇艺,http://zy.yilans.net:8090/api.php/provide/vod/from/qiyi/at/xml,解析
 腾讯,http://zy.yilans.net:8090/api.php/provide/vod/from/qq/at/xml,解析
@@ -123,7 +122,6 @@ LIBVIO,https://www.libvio.com/api.php/provide/vod/at/xml,解析
 测试,http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml,解析
 结束
 解析：
-json南府影视,https://vvip.muxvip.com:8866/api/?key=xVIWNjOvnxgmvrPgXO&url=
 parwix,https://jx.parwix.com:4433/player/?url=
 Parwix解析1,https://jx.parwix.com:4433/player/analysis.php?v=
 Parwix解析2,https://vip.parwix.com:4433/player/?url=
