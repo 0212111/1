@@ -3106,6 +3106,16 @@
             }
         },
         {
+            "name": "奈菲迷",
+            "type": 1,
+            "url": "https://vvip.funsline.cn/api/?type=app&key=fK6x076k18LU34x02N&ur=",
+            "ext": {
+                "flag": [
+                    "muxm3u8"
+                ]
+            }
+        },
+        {
             "name": "江湖云",
             "type": 1,
             "url": "https://jx.ncxmid.cn/sb/?url=",
