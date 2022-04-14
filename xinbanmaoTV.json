@@ -3163,6 +3163,31 @@
             }
         },
         {
+            "name": "五一解析",
+            "type": 1,
+            "url": "https://json.5lp.net/json.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "pptv",
+                    "PPTV",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "renrenmi",
+                    "rx",
+                    "rongxing"
+                ]
+            }
+        },
+        {
             "name": "RongXingVR",
             "type": 1,
             "url": "https://vip.rongxingvr.top/api/?key=JJEZkZIhzkA4cUtBfR&url=",
