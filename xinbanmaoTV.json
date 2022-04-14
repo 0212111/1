@@ -2160,11 +2160,11 @@
             ]
         },
         {
-            "key": "抹茶猪(龙腾)",
-            "name": "抹茶猪(龙腾)",
+            "key": "龙腾资源",
+            "name": "龙腾资源（请使用EXO播放器）",
             "type": 1,
             "api": "https://www.mczdyw.com/api.php/provide/vod/",
-            "playUrl": "jaon:https://analysis.yikan.one/analysis/player/?uid=8&my=fjkmoqFJLORTVZ1359&url=",
+            "playUrl": "https://vodjx.mochazhu.com/index.php?url=",
             "categories": [
                 
             ]
@@ -3326,16 +3326,6 @@
                     "rx",
                     "mgtv",
                     "芒果"
-                ]
-            }
-        },
-        {
-            "name": "龙腾专解",
-            "type": 1,
-            "url": "https://analysis.yikan.one/analysis/player/?uid=8&my=fjkmoqFJLORTVZ1359&url=",
-            "ext": {
-                "flag": [
-                    "jrp"
                 ]
             }
         },
