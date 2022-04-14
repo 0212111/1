@@ -2160,16 +2160,6 @@
             ]
         },
         {
-            "key": "龙腾资源",
-            "name": "龙腾资源（请使用EXO播放器）",
-            "type": 1,
-            "api": "https://www.mczdyw.com/api.php/provide/vod/",
-            "playUrl": "https://vodjx.mochazhu.com/index.php?url=",
-            "categories": [
-                
-            ]
-        },
-        {
             "key": "奈菲迷",
             "name": "奈菲迷",
             "type": 1,
