@@ -3165,7 +3165,7 @@
         {
             "name": "RongXingVR",
             "type": 1,
-            "url": "http://23.224.174.74:5583/jsonindex.php?url=",
+            "url": "https://vip.rongxingvr.top/api/?key=JJEZkZIhzkA4cUtBfR&url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -3182,7 +3182,8 @@
                     "哔哩哔哩",
                     "哔哩",
                     "renrenmi",
-                    "rx"
+                    "rx",
+                    "rongxing"
                 ]
             }
         },
