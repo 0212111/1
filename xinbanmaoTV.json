@@ -160,6 +160,16 @@
             "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/zxzj.json"
         },
         {
+            "key": "csp_appysv2_555电影",
+            "name": "555电影APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://555dy3.com/api.php/app/"
+        },
+        {
             "key": "csp_appysv2_六神追剧",
             "name": "六神追剧APP",
             "type": 3,
@@ -2988,16 +2998,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://cncncloud.com/api/v3/file/source/3064473/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json?sign=QwPfl0Tr7SHXn-SwPxVOKjtsPsM1oXETiclj9CWT8rw%3D%3A0"
-        },
-        {
-            "key": "csp_appysv2_555电影",
-            "name": "555电影APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "555电影###https://gitea.com/dukanyilunfanhua/sp/raw/branch/master/AppYs.json"
         }
     ],
     "lives": [
