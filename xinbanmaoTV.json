@@ -3455,16 +3455,6 @@
             }
         },
         {
-            "name": "duoduozy",
-            "type": 1,
-            "url": "https://api.jhdyw.vip/dd.php?url=",
-            "ext": {
-                "flag": [
-                    "duoduozy"
-                ]
-            }
-        },
-        {
             "name": "1080zy",
             "type": 1,
             "url": "https://languangyingshiziyuan.1080zy.top/longteng.php/?url=",
@@ -4026,16 +4016,6 @@
             "ext": {
                 "flag": [
                     "muxm3u8"
-                ]
-            }
-        },
-        {
-            "name": "手指",
-            "type": 1,
-            "url": "https://a.dxzj88.com/ddzy/dd.php?url=",
-            "ext": {
-                "flag": [
-                    "duoduozy"
                 ]
             }
         },
