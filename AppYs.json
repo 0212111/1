@@ -1,6 +1,6 @@
 {
   "sites": {
-"555电影":{"url":"https://555dy3.com/api.php/app/","jx":[["duoduozy","http://a.dxzj88.com/ddzy/dd.php?url="]]},
+"555电影":{"url":"https://555dy3.com/api.php/app/","jx":[["duoduozy","https://api.jhdyw.vip/dd.php?url="]]},
 "七科影视TV":{"url":"http://tv.7kfm.cn/api.php/iptv/vod","jx":[["qq","youku","qiyi","sohu","https://jf.96ym.cn/api/?key=13FXcA46Nzg4QeFHbq&url="]]},
 "追剧达人":{"url":"https://vipmv.co/xgapp.php/v1/"},
 "星空影视":{"url":"https://xkys.tv/xgapp.php/v1/","jx":[]},
@@ -8,7 +8,7 @@
 "天空影视":{"url":"https://tkys.tv/xgapp.php/v1/"},
 "天空影视V2":{"url":"https://www.tkys.tv/xgapp.php/v2/","jx":[["miaoparty3","mpt3","https://www.meiju56.com/a/jmplay/?url="]]},
 "迪迪影院V2":{"url":"http://dd88.icu:6080/xgapp.php/v2/"},
-"饭团影视":{"url":"http://television.wkfile.com/api.php/app/","User-Agent":[["Mozilla/5.0 Android"]]},
+"饭团影视":{"url":"http://television.wkfile.com/api.php/app/"},
 "灵狐影视":{"url":"http://x.dmntv.com/api.php/app/"},
 "手指影视":{"url":"https://szys5678.com/mogai_api.php/v1.vod"},
 "1080p":{"url":"https://1080p.one/mogai_api.php/v1.vod"},
