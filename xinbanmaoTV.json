@@ -1,6 +1,16 @@
 {
     "sites": [
         {
+            "ext": "http://inews.gtimg.com/newsapp_ls/0/14743078668/0",
+            "filterable": 1,
+            "quickSearch": 1,
+            "name": "360影院(官源)",
+            "api": "csp_YS360",
+            "type": 3,
+            "key": "360_spider",
+            "searchable": 1
+        },
+        {
             "ext": "http://inews.gtimg.com/newsapp_ls/0/14743078626/0",
             "filterable": 1,
             "quickSearch": 1,
@@ -18,16 +28,6 @@
             "api": "csp_YSSogou",
             "type": 3,
             "key": "sogou_spider",
-            "searchable": 1
-        },
-        {
-            "ext": "http://inews.gtimg.com/newsapp_ls/0/14743078668/0",
-            "filterable": 1,
-            "quickSearch": 1,
-            "name": "360影院(官源)",
-            "api": "csp_YS360",
-            "type": 3,
-            "key": "360_spider",
             "searchable": 1
         },
         {
