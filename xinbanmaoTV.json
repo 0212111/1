@@ -3280,6 +3280,115 @@
             }
         },
         {
+            "name": "喵派1",
+            "type": 0,
+            "url": "https://vip.aiaine.com/api/?type=app&key=ESnBC3t7IxnnHAziyU&url=",
+            "ext": {
+                "flag": [
+                    "ltnb",
+                    "renrenmi",
+                    "miaoparty",
+                    "miaoparty2",
+                    "miaoparty3",
+                    "rx",
+                    "rongxing",
+                    "xueren",
+                    "xfy"
+                ]
+            }
+        },
+        {
+            "name": "喵派2",
+            "type": 0,
+            "url": "https://vip.neenl.com/?url=
+",
+            "ext": {
+                "flag": [
+                    "ltnb",
+                    "renrenmi",
+                    "miaoparty",
+                    "miaoparty2",
+                    "miaoparty3",
+                    "rx",
+                    "rongxing",
+                    "xueren",
+                    "xfy"
+                ]
+            }
+        },
+        {
+            "name": "喵派3",
+            "type": 0,
+            "url": "https://miaoparty.com/dmplay/?url=",
+            "ext": {
+                "flag": [
+                    "ltnb",
+                    "renrenmi",
+                    "miaoparty",
+                    "miaoparty2",
+                    "miaoparty3",
+                    "rx",
+                    "rongxing",
+                    "xueren",
+                    "xfy"
+                ]
+            }
+        },
+        {
+            "name": "喵派4",
+            "type": 0,
+            "url": "https://www.iqiyi.one/dmplay/?url=",
+            "ext": {
+                "flag": [
+                    "ltnb",
+                    "renrenmi",
+                    "miaoparty",
+                    "miaoparty2",
+                    "miaoparty3",
+                    "rx",
+                    "rongxing",
+                    "xueren",
+                    "xfy"
+                ]
+            }
+        },
+        {
+            "name": "喵派5",
+            "type": 0,
+            "url": "https://www.ailemo.me/dmplay/?url=",
+            "ext": {
+                "flag": [
+                    "ltnb",
+                    "renrenmi",
+                    "miaoparty",
+                    "miaoparty2",
+                    "miaoparty3",
+                    "rx",
+                    "rongxing",
+                    "xueren",
+                    "xfy"
+                ]
+            }
+        },
+        {
+            "name": "喵派6",
+            "type": 0,
+            "url": "https://dm.bx.sb/?url=",
+            "ext": {
+                "flag": [
+                    "ltnb",
+                    "renrenmi",
+                    "miaoparty",
+                    "miaoparty2",
+                    "miaoparty3",
+                    "rx",
+                    "rongxing",
+                    "xueren",
+                    "xfy"
+                ]
+            }
+        },
+        {
             "name": "搬运工资源站",
             "type": 1,
             "url": "https://jx.kupu.cc/json/jxbanyung.php/?url=",
