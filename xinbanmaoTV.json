@@ -200,6 +200,16 @@
             "ext": "http://www.lltpys.com/api.php/app/"
         },
         {
+            "key": "csp_appysv2_金叶影院",
+            "name": "金叶影院(M2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://r.zjj.life:88/mv/api.php/Chengcheng/vod"
+        },
+        {
             "key": "csp_appysv2_狐狸动漫",
             "name": "狐狸动漫(M2)",
             "type": 3,
