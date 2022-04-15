@@ -31,16 +31,6 @@
             "searchable": 1
         },
         {
-            "ext": "e5797a235b6ff2a6ed81cdf08bdb6801#http://inews.gtimg.com/newsapp_ls/0/14749013279/0",
-            "filterable": 1,
-            "quickSearch": 1,
-            "name": "哔嘀(SP)",
-            "api": "csp_CSP",
-            "type": 3,
-            "key": "bde4ys_spider",
-            "searchable": 1
-        },
-        {
             "ext": "",
             "filterable": 1,
             "quickSearch": 0,
