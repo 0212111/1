@@ -2680,16 +2680,6 @@
             ]
         },
         {
-            "key": "晓峰影视",
-            "name": "晓峰影视",
-            "type": 1,
-            "api": "http://api.xxcr.tk/api.php/provide/vod/",
-            "playUrl": "",
-            "categories": [
-                
-            ]
-        },
-        {
             "key": "千寻时光",
             "name": "千寻时光",
             "type": 1,
