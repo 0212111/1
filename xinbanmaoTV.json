@@ -1880,18 +1880,8 @@
             ]
         },
         {
-            "key": "龙腾资源1",
-            "name": "龙腾资源1",
-            "type": 1,
-            "api": "https://m3u8.movurl.xyz/api.php/provide/vod/from/ltnb",
-            "playUrl": "json:http://json.china-sos.com/home/api?type=ys&uid=674682&key=eopruvxzABCDOQS458&url=",
-            "categories": [
-                
-            ]
-        },
-        {
-            "key": "龙腾资源2",
-            "name": "龙腾资源2",
+            "key": "龙腾资源",
+            "name": "龙腾资源",
             "type": 1,
             "api": "http://ys.kudian6.com/api.php/provide/vod/from/ltnb",
             "playUrl": "json:http://json.china-sos.com/home/api?type=ys&uid=674682&key=eopruvxzABCDOQS458&url=",
