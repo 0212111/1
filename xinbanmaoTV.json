@@ -1894,7 +1894,7 @@
             "name": "雪人影视",
             "type": 1,
             "api": "http://shangjihuoke.com/api.php/provide/vod/from/xueren",
-            "playUrl": "",
+            "playUrl": "json:https://jx.zhanlangbu.com/json.php/?url=",
             "categories": [
                 
             ]
@@ -3179,31 +3179,6 @@
                     "bilibili",
                     "哔哩哔哩",
                     "哔哩"
-                ]
-            }
-        },
-        {
-            "name": "五一解析",
-            "type": 1,
-            "url": "https://json.5lp.net/json.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "pptv",
-                    "PPTV",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩",
-                    "renrenmi",
-                    "rx",
-                    "rongxing"
                 ]
             }
         },
