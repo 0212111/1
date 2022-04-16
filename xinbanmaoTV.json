@@ -1880,6 +1880,16 @@
             ]
         },
         {
+            "key": "雪人影视",
+            "name": "雪人影视",
+            "type": 1,
+            "api": "http://shangjihuoke.com/api.php/provide/vod/from/xueren",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
             "key": "融兴资源",
             "name": "融兴资源",
             "type": 1,
@@ -2784,16 +2794,6 @@
             "name": "嘛哩嘛哩",
             "type": 1,
             "api": "https://malimali3.com/api.php/provide/vod/",
-            "playUrl": "",
-            "categories": [
-                
-            ]
-        },
-        {
-            "key": "雪人蓝光",
-            "name": "雪人蓝光",
-            "type": 1,
-            "api": "https://zy.qd234.cn/api.php/provide/vod/",
             "playUrl": "",
             "categories": [
                 
