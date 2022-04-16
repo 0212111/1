@@ -1904,7 +1904,7 @@
             "name": "融兴资源",
             "type": 1,
             "api": "http://ys.kudian6.com/api.php/provide/vod/from/rongxing",
-            "playUrl": "",
+            "playUrl": "json:https://vip.rongxingvr.top/api/?key=JJEZkZIhzkA4cUtBfR&url=",
             "categories": [
                 
             ]
@@ -3441,31 +3441,6 @@
             "url": "https://jhjx.kuanjv.com/newky/?url=",
             "ext": {
                 "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩",
-                    "letv",
-                    "乐视",
-                    "sohu"
-                ]
-            }
-        },
-        {
-            "name": "kpjx",
-            "type": 1,
-            "url": "https://lt.kpjx.cc/Mao.php?url=",
-            "ext": {
-                "flag": [
-                    "ltnb",
-                    "rx",
-                    "renrenmi",
                     "qq",
                     "腾讯",
                     "qiyi",
