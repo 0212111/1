@@ -1880,6 +1880,16 @@
             ]
         },
         {
+            "key": "融兴资源",
+            "name": "融兴资源",
+            "type": 1,
+            "api": "http://ys.kudian6.com/api.php/provide/vod/from/rongxing",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
             "key": "片库",
             "name": "片库",
             "type": 1,
