@@ -1880,6 +1880,16 @@
             ]
         },
         {
+            "key": "旋风影院",
+            "name": "旋风影院",
+            "type": 1,
+            "api": "https://www.siguyy.net/api.php/provide/vod/from/xfyun",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
             "key": "雪人影视",
             "name": "雪人影视",
             "type": 1,
