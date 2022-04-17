@@ -1930,6 +1930,16 @@
             ]
         },
         {
+            "key": "融兴资源2",
+            "name": "融兴资源2",
+            "type": 1,
+            "api": "https://app.netflixmi.com/ruifenglb_api.php/provide/vod/from/rx",
+            "playUrl": "json:https://vip.rongxingvr.top/api/?key=JJEZkZIhzkA4cUtBfR&url=",
+            "categories": [
+                
+            ]
+        },
+        {
             "key": "片库",
             "name": "片库",
             "type": 1,
