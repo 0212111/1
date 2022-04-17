@@ -3956,27 +3956,6 @@
             }
         },
         {
-            "name": "叮当影视",
-            "type": 1,
-            "url": "https://www.hwh.ink/home/api?type=ys&uid=1297351&key=arsyDIJLMNOWXY4789&url=",
-            "ext": {
-                "flag": [
-                    "ziqie",
-                    "ltnb",
-                    "youku",
-                    "rongxing",
-                    "优酷",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "qq",
-                    "腾讯",
-                    "letv",
-                    "乐视"
-                ]
-            }
-        },
-        {
             "name": "琅琊影视8",
             "type": 1,
             "url": "https://jf.96ym.cn/api/?key=13FXcA46Nzg4QeFHbq&url=",
