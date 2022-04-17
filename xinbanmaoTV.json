@@ -33,7 +33,7 @@
         {
             "ext": "",
             "filterable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "name": "七七(SP)",
             "api": "csp_Kunyu77",
             "type": 3,
@@ -43,7 +43,7 @@
         {
             "ext": "",
             "filterable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "name": "酷猫(SP)",
             "api": "csp_Kmys",
             "type": 3,
