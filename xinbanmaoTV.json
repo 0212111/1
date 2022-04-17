@@ -1924,7 +1924,7 @@
             "name": "融兴资源",
             "type": 1,
             "api": "http://ys.kudian6.com/api.php/provide/vod/from/rongxing",
-            "playUrl": "json:https://vip.rongxingvr.top/api/?key=JJEZkZIhzkA4cUtBfR&url=",
+            "playUrl": "https://bfq.qcsvip.com/dmplayer/?url=",
             "categories": [
                 
             ]
@@ -1934,7 +1934,7 @@
             "name": "融兴资源2",
             "type": 1,
             "api": "https://app.netflixmi.com/ruifenglb_api.php/provide/vod/from/rx",
-            "playUrl": "json:https://vip.rongxingvr.top/api/?key=JJEZkZIhzkA4cUtBfR&url=",
+            "playUrl": "https://bfq.qcsvip.com/dmplayer/?url=",
             "categories": [
                 
             ]
