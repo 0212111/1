@@ -105,7 +105,7 @@
             "api": "http://cj.huimaojia.com:12345/api.php/provide/vod",
             "playUrl": "",
             "searchable": 1,
-            "filterable": 0
+            "filterable": 1
         },
         {
             "key": "剧大神",
