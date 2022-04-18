@@ -1930,18 +1930,6 @@
             ]
         },
         {
-            "key": "饭团影院",
-            "name": "饭团影院",
-            "type": 1,
-            "api": "http://www.zjys.vip/api.php/provide/vod/from/ftqp4",
-            "playUrl": "",
-            "searchable": 1,
-            "filterable": 1,
-            "categories": [
-                
-            ]
-        },
-        {
             "key": "PP云",
             "name": "PP云",
             "type": 1,
