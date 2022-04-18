@@ -160,14 +160,14 @@
             "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/zxzj.json"
         },
         {
-            "key": "csp_appysv2_555电影",
-            "name": "555电影APP",
+            "key": "csp_xpath_555",
+            "name": "555电影(XP)",
             "type": 3,
-            "api": "csp_AppYsV2",
+            "api": "csp_XPathMacFilter",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://555dy3.com/api.php/app/"
+            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/555.json"
         },
         {
             "key": "csp_appysv2_六神追剧",
@@ -3389,7 +3389,7 @@
                 ]
             }
         },
-         {
+        {
             "name": "飓风影视",
             "type": 1,
             "url": "https://vvip.funsline.cn/api/?key=MPbC1MDs0vP0cKKOoV&url=",
