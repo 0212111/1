@@ -1930,6 +1930,18 @@
             ]
         },
         {
+            "key": "忆梦",
+            "name": "忆梦",
+            "type": 1,
+            "api": "http://anltv.cn/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 1,
+            "categories": [
+                
+            ]
+        },
+        {
             "key": "PP云",
             "name": "PP云",
             "type": 1,
@@ -1982,6 +1994,18 @@
             "name": "旋风影院",
             "type": 1,
             "api": "https://www.siguyy.net/api.php/provide/vod/from/xfyun",
+            "playUrl": "json:https://jx.xl6.top/fp/API.php?appkey=987654321&url=",
+            "searchable": 1,
+            "filterable": 1,
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "旋风云",
+            "name": "旋风云",
+            "type": 1,
+            "api": "http://appimg.ssxmall.cn/api.php/provide/vod/",
             "playUrl": "json:https://jx.xl6.top/fp/API.php?appkey=987654321&url=",
             "searchable": 1,
             "filterable": 1,
