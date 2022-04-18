@@ -4577,9 +4577,9 @@
             }
         },
         {
-            "name": "大熊影视",
+            "name": "duoduo",
             "type": 1,
-            "url": "https://a.dxzj88.com/jianghu/dd.php?url=",
+            "url": "https://api.jhdyw.vip/dd.php?url=",
             "ext": {
                 "flag": [
                     "duoduozy"
