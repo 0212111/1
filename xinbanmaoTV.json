@@ -1906,6 +1906,66 @@
             ]
         },
         {
+            "key": "片库",
+            "name": "片库",
+            "type": 1,
+            "api": "https://pianku.wang/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 1,
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "看猫",
+            "name": "看猫",
+            "type": 1,
+            "api": "http://124.222.83.15:88/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 1,
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "饭团影院",
+            "name": "饭团影院",
+            "type": 1,
+            "api": "http://www.zjys.vip/api.php/provide/vod/from/ftqp4",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 1,
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "PP云",
+            "name": "PP云",
+            "type": 1,
+            "api": "https://video.yikan.app/api.php/provide/vod/from/ppayun",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 1,
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "盘子影视",
+            "name": "盘子影视",
+            "type": 1,
+            "api": "http://www.zjys.vip/api.php/provide/vod/from/pangzi",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 1,
+            "categories": [
+                
+            ]
+        },
+        {
             "key": "龙腾资源",
             "name": "龙腾资源",
             "type": 1,
@@ -1959,18 +2019,6 @@
             "type": 1,
             "api": "http://ys.kudian6.com/api.php/provide/vod/from/rongxing",
             "playUrl": "https://bfq.qcsvip.com/dmplayer/?url=",
-            "searchable": 1,
-            "filterable": 1,
-            "categories": [
-                
-            ]
-        },
-        {
-            "key": "片库",
-            "name": "片库",
-            "type": 1,
-            "api": "https://pianku.wang/api.php/provide/vod/",
-            "playUrl": "https://www.newsaas.cn/jx/?url=",
             "searchable": 1,
             "filterable": 1,
             "categories": [
@@ -2570,18 +2618,6 @@
             "name": "一拳动漫",
             "type": 1,
             "api": "http://47.97.68.224/api.php/provide/vod/",
-            "playUrl": "",
-            "searchable": 1,
-            "filterable": 1,
-            "categories": [
-                
-            ]
-        },
-        {
-            "key": "饭团影视",
-            "name": "饭团影视",
-            "type": 1,
-            "api": "http://television.wkfile.com/api.php/provide/vod/",
             "playUrl": "",
             "searchable": 1,
             "filterable": 1,
