@@ -1954,6 +1954,18 @@
             ]
         },
         {
+            "key": "晓成云",
+            "name": "晓成云",
+            "type": 1,
+            "api": "http://zycj.cygc.xyz:84/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 1,
+            "categories": [
+                
+            ]
+        },
+        {
             "key": "PP云",
             "name": "PP云",
             "type": 1,
