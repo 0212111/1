@@ -2712,7 +2712,7 @@
             "name": "小蜻蜓APP",
             "type": 1,
             "api": "http://3ketv.com/api.php/provide/vod/",
-            "playUrl": "https://jx.parwix.com:4433/player/analysis.php?v=",
+            "playUrl": "",
             "searchable": 1,
             "filterable": 1,
             "categories": [
@@ -3012,7 +3012,7 @@
             "name": "千寻时光",
             "type": 1,
             "api": "http://wy.dqyhg.cn/api.php/provide/vod/",
-            "playUrl": "https://jx.parwix.com:4433/player/analysis.php?v=",
+            "playUrl": "",
             "searchable": 1,
             "filterable": 1,
             "categories": [
