@@ -1942,6 +1942,18 @@
             ]
         },
         {
+            "key": "土狗官采",
+            "name": "土狗官采",
+            "type": 1,
+            "api": "http://vip-02.tgzy.cc/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 1,
+            "categories": [
+                
+            ]
+        },
+        {
             "key": "PP云",
             "name": "PP云",
             "type": 1,
