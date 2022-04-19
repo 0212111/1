@@ -1767,7 +1767,7 @@
             "type": 1,
             "api": "http://zy.ataoju.com/inc/apijson_vod.php",
             "playUrl": "",
-            "searchable": 1,
+            "searchable": 0,
             "filterable": 1,
             "categories": [
                 
@@ -2259,7 +2259,7 @@
             "type": 1,
             "api": "http://www.hanjuzy.com/inc/apijson_vod.php",
             "playUrl": "",
-            "searchable": 1,
+            "searchable": 0,
             "filterable": 1,
             "categories": [
                 
@@ -2283,7 +2283,7 @@
             "type": 1,
             "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php",
             "playUrl": "",
-            "searchable": 1,
+            "searchable": 0,
             "filterable": 1,
             "categories": [
                 
@@ -2749,7 +2749,7 @@
             "type": 1,
             "api": "https://www.meijuxq.tv/inc/apijson_vod.php",
             "playUrl": "",
-            "searchable": 1,
+            "searchable": 0,
             "filterable": 1,
             "categories": [
                 
@@ -2929,7 +2929,7 @@
             "type": 1,
             "api": "http://vip.8kvod.com:888/8kvodapilgxc.php/provide/vod/",
             "playUrl": "",
-            "searchable": 1,
+            "searchable": 0,
             "filterable": 1,
             "categories": [
                 
@@ -2977,7 +2977,7 @@
             "type": 1,
             "api": "https://速影128.xyz/inc/apijson.php",
             "playUrl": "",
-            "searchable": 1,
+            "searchable": 0,
             "filterable": 1,
             "categories": [
                 
