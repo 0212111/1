@@ -3478,6 +3478,24 @@
             }
         },
         {
+            "name": "爱酷",
+            "type": 1,
+            "url": "https://json.iku.cool/api/?key=XJ97JaoJdQ71JxWr50&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "xigua"
+                ]
+            }
+        },
+        {
             "name": "盘古解析",
             "type": 1,
             "url": "https://json.pangujiexi.com:12345/json.php?url=",
