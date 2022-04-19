@@ -3497,7 +3497,7 @@
         },
         {
             "name": "伊雪湾",
-            "type": 1,
+            "type": 0,
             "url": "https://a.yixuewan.com/player/analysis.php?v=",
             "ext": {
                 "flag": [
