@@ -3496,6 +3496,25 @@
             }
         },
         {
+            "name": "伊雪湾",
+            "type": 1,
+            "url": "https://a.yixuewan.com/player/analysis.php?v=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "sohu"
+                ]
+            }
+        },
+        {
             "name": "盘古解析",
             "type": 1,
             "url": "https://json.pangujiexi.com:12345/json.php?url=",
