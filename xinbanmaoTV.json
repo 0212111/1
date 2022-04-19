@@ -1994,7 +1994,7 @@
             "name": "旋风影院",
             "type": 1,
             "api": "https://www.siguyy.net/api.php/provide/vod/from/xfyun",
-            "playUrl": "json:https://jx.xl6.top/fp/API.php?appkey=987654321&url=",
+            "playUrl": "json:https://vip.xfyun.one/home/api?type=ys&uid=2581923&key=ceijpquvBMOSUVXZ23&url=",
             "searchable": 1,
             "filterable": 1,
             "categories": [
@@ -2006,7 +2006,7 @@
             "name": "旋风云",
             "type": 1,
             "api": "http://appimg.ssxmall.cn/api.php/provide/vod/",
-            "playUrl": "json:https://jx.xl6.top/fp/API.php?appkey=987654321&url=",
+            "playUrl": "json:https://vip.xfyun.one/home/api?type=ys&uid=2581923&key=ceijpquvBMOSUVXZ23&url=",
             "searchable": 1,
             "filterable": 1,
             "categories": [
