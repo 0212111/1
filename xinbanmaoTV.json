@@ -1966,6 +1966,30 @@
             ]
         },
         {
+            "key": "淘剧鸭",
+            "name": "淘剧鸭",
+            "type": 1,
+            "api": "https://so2.cc/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 1,
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "293影视",
+            "name": "293影视",
+            "type": 1,
+            "api": "http://293x.yhzy.xyz/mv/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 1,
+            "categories": [
+                
+            ]
+        },
+        {
             "key": "PP云",
             "name": "PP云",
             "type": 1,
