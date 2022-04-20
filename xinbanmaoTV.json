@@ -64,16 +64,6 @@
             "ext": "",
             "filterable": 1,
             "quickSearch": 1,
-            "name": "闪电(SP)",
-            "api": "csp_Sd",
-            "type": 3,
-            "key": "sd_spider",
-            "searchable": 1
-        },
-        {
-            "ext": "",
-            "filterable": 1,
-            "quickSearch": 1,
             "name": "爱看(SP)",
             "api": "csp_IKan",
             "type": 3,
@@ -88,6 +78,16 @@
             "type": 3,
             "key": "mjxq_spider",
             "searchable": 1
+        },
+        {
+            "key": "csp_xpath_hancheng",
+            "name": "汉城影院(XP)",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/hancheng.json"
         },
         {
             "key": "csp_xpath_tiantian",
