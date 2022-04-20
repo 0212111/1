@@ -80,16 +80,6 @@
             "searchable": 1
         },
         {
-            "key": "csp_xpath_dadagui",
-            "name": "达达龟(XP)",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/dadagui.json"
-        },
-        {
             "key": "csp_xpath_tiantian",
             "name": "天天影视(XP)",
             "type": 3,
