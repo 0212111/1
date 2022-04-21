@@ -80,7 +80,7 @@
             "searchable": 1
         },
         {
-            "key": "csp_xpath_tiantian",
+            "key": "csp_xpath_348dy",
             "name": "348电影(XP)",
             "type": 3,
             "api": "csp_XPath",
@@ -90,7 +90,7 @@
             "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/348dianying.json"
         },
         {
-            "key": "csp_xpath_tiantian",
+            "key": "csp_xpath_dadagui",
             "name": "达达龟(XP)",
             "type": 3,
             "api": "csp_XPath",
@@ -100,7 +100,7 @@
             "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/dadagui.json"
         },
         {
-            "key": "csp_xpath_tiantian",
+            "key": "csp_xpath_jubaibai",
             "name": "剧白白(XP)",
             "type": 3,
             "api": "csp_XPath",
@@ -110,7 +110,7 @@
             "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/jubaibai.json"
         },
         {
-            "key": "csp_xpath_tiantian",
+            "key": "csp_xpath_juhuang",
             "name": "剧荒TV(XP)",
             "type": 3,
             "api": "csp_XPath",
@@ -120,7 +120,7 @@
             "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/juhuangtv.json"
         },
         {
-            "key": "csp_xpath_tiantian",
+            "key": "csp_xpath_yanaifei",
             "name": "鸭奈飞(XP)",
             "type": 3,
             "api": "csp_XPath",
