@@ -82,7 +82,7 @@
         },
         {
             "key": "csp_xpath_348dy",
-            "name": "348电影(XP)",
+            "name": "348电影(XP)仅搜索",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
@@ -92,7 +92,7 @@
         },
         {
             "key": "csp_xpath_dadagui",
-            "name": "达达龟(XP)",
+            "name": "达达龟(XP)仅搜索",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
@@ -102,7 +102,7 @@
         },
         {
             "key": "csp_xpath_jubaibai",
-            "name": "剧白白(XP)",
+            "name": "剧白白(XP)仅搜索",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
@@ -112,7 +112,7 @@
         },
         {
             "key": "csp_xpath_juhuang",
-            "name": "剧荒TV(XP)",
+            "name": "剧荒TV(XP)仅搜索",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
@@ -122,7 +122,7 @@
         },
         {
             "key": "csp_xpath_yanaifei",
-            "name": "鸭奈飞(XP)",
+            "name": "鸭奈飞(XP)仅搜索",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
