@@ -1,7 +1,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-//"spider":"https://github.com/YuanHsing/OneClickRun/raw/master/xpath/custom_spider.jar?raw=true",
-"spider":"https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
+//"spider":"https://gitea.com/dukanyilunfanhua/sp/raw/branch/master/custom_spider%20xp.jar?raw=true",
+"spider":"https://gitea.com/dukanyilunfanhua/sp/raw/branch/master/custom_spider.jar?raw=true",
     "sites": [
         {
             "ext": "http://inews.gtimg.com/newsapp_ls/0/14743078668/0",
