@@ -2027,10 +2027,10 @@
             ]
         },
         {
-            "key": "极速蓝光",
-            "name": "极速蓝光",
+            "key": "FuckApp",
+            "name": "FckApp",
             "type": 1,
-            "api": "http://hs.zhuijuba.vip/api.php/provide/vod/",
+            "api": "http://hs.zhuijuba.vip/api.php/provide/vod/from/fuckapp",
             "playUrl": "",
             "searchable": 1,
             "filterable": 1,
