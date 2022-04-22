@@ -221,6 +221,16 @@
             "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/555.json"
         },
         {
+            "key": "csp_appysv2_知鱼影视",
+            "name": "知鱼影视APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.zhiyuys.top:8099/xgapp.php/v2/"
+        },
+        {
             "key": "csp_appysv2_团夕影视",
             "name": "团夕影视APP",
             "type": 3,
