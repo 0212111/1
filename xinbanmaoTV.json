@@ -2028,7 +2028,7 @@
         },
         {
             "key": "FuckApp",
-            "name": "FckApp",
+            "name": "FuckApp",
             "type": 1,
             "api": "http://hs.zhuijuba.vip/api.php/provide/vod/from/fuckapp",
             "playUrl": "",
