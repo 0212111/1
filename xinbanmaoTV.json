@@ -2651,18 +2651,6 @@
             ]
         },
         {
-            "key": "FuckApp",
-            "name": "FuckApp",
-            "type": 1,
-            "api": "http://zhuiju8.vip/api.php/provide/vod/from/fuckapp",
-            "playUrl": "",
-            "searchable": 1,
-            "filterable": 1,
-            "categories": [
-                
-            ]
-        },
-        {
             "key": "易看视频",
             "name": "易看视频",
             "type": 1,
