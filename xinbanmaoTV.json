@@ -221,6 +221,16 @@
             "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/555.json"
         },
         {
+            "key": "csp_appysv2_团夕影视",
+            "name": "团夕影视APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.kan365.xyz/api.php/app/"
+        },
+        {
             "key": "csp_appysv2_六神追剧",
             "name": "六神追剧APP",
             "type": 3,
