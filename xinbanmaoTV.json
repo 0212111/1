@@ -2630,7 +2630,7 @@
             "key": "k",
             "name": "7",
             "type": 1,
-            "api": "http://api.kunyu77.com/api.php/provide/vod",
+            "api": "http://api.kunyu77.com/api.php",
             "playUrl": "",
             "searchable": 1,
             "filterable": 1,
