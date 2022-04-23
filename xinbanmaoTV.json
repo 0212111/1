@@ -1,5 +1,8 @@
 {
-    "spider": "https://gitea.com/dukanyilunfanhua/sp/raw/branch/master/custom_spider.jar?raw=true",
+    //3官
+    //"spider": "https://gitea.com/dukanyilunfanhua/sp/raw/branch/master/custom_spider.jar?raw=true",
+    //不
+    //"spider": "https://gitea.com/dukanyilunfanhua/sp/raw/branch/master/custom_spider%20%20xp.jar?raw=true",
     "sites": [
         {
             "ext": "http://inews.gtimg.com/newsapp_ls/0/14743078668/0",
