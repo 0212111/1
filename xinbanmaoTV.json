@@ -32,7 +32,16 @@
             "key": "sogou_spider",
             "searchable": 1
         },
-        {
+       {
+    "key": "csp_Buka",
+    "name": "真不卡(爬)",
+    "type": 3,
+    "api": "csp_Buka",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
+ {
             "ext": "",
             "filterable": 1,
             "quickSearch": 1,
