@@ -3393,16 +3393,6 @@
             ]
         },
         {
-            "key": "csp_appys_王牌影音APP",
-            "name": "王牌影音APP",
-            "type": 3,
-            "api": "csp_AppYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://wp.kuanjv.com/xgapp.php/v2/"
-        },
-        {
             "key": "csp_xpath_ftyy",
             "name": "饭团影院(网站)",
             "type": 3,
