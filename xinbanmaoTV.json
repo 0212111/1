@@ -3473,9 +3473,9 @@
             "url": "Sequence"
         },
         {
-            "name": "大威电影",
+            "name": "藤蔓影视",
             "type": 1,
-            "url": "https://cs.024zs.com:4433/api/?key=y3qnopZ0kW5zjGmHuH&url=",
+            "url": "https://121.204.249.94:92/api/?key=S61drMG8Ke4ZYhDTGf&url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -3490,7 +3490,10 @@
                     "乐视",
                     "bilibili",
                     "哔哩哔哩",
-                    "哔哩"
+                    "哔哩",
+                    "ltnb",
+                    "LT",
+                    "renrenmi"
                 ]
             }
         },
