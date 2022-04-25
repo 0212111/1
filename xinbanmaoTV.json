@@ -251,6 +251,16 @@
             "ext": "http://www.lltpys.com/api.php/app/"
         },
         {
+            "key": "csp_appysv2_海外影视",
+            "name": "海外影视(M2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.200121.com/api.php/v1.vod"
+        },
+        {
             "key": "csp_appysv2_OK影视",
             "name": "OK影视(M2)",
             "type": 3,
