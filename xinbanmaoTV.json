@@ -258,7 +258,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://tv.rcz168.com/api.php/v1.vod?level=9"
+            "ext": "http://tv.rcz168.com/api.php/v1.vod"
         },
         {
             "key": "csp_appysv2_凌晨影视",
