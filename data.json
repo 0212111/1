@@ -608,33 +608,11 @@
     }
   ],
   "parseUrl": [
-    "https://jx.iztyy.com/Bei/?url=",      "https://okjx.cc?url=",
-    "https://jx.ppflv.com/?url=",
-	"https://jx.blbo.cc:4433/?url=",
-    "http://a.dxzj88.com/ddzy/dd.php?url=",
-    "https://jsap.attakids.com/?url=",
-    "https://vip.parwix.com:4433/player/?url=",
-	"https://m2090.com/?url=",
-    "https://api.jhdyw.vip/?url=",
-    "http://jx.quanmingjiexi.com/?url=",
-	"https://www.daga.cc/vip1/?url="
   ],
   "parsePlayUrl": [
   ],
   "parseJson": [
-	"http://dt.hwh.ink/home/api?type=ys&uid=1297351&key=acdfklopqvwyKLOT39&url=",
-    "http://cx99999.cn/json.php?url="
-,
-    "https://jx.300ys.xyz/json/jh.php/?url=r",
-    "https://languangyingshiziyuan.1080zy.top/longteng.php/?url=",
-    "http://ts.yjhan.com:8090/api/?key=eoWvJ8pLvB6T30IBlt&url=",
-    "https://ltjx.jeeves.vip/home/api?type=ys&uid=1589472&key=aehjpzAHILOPQRU456&url=",
-    "http://www.zhaikanys.com/jx.php?url=",
-    "https://jb.vjiangbei.com/home/api?type=ys&uid=2219260&key=hlmnpqswHIKQRSX146&url=",
-	"https://js.xl6.top/home/api?type=ys&uid=1087888&key=cilsxCEFGKMOQSW036&url=",
-	"http://42.157.128.85:880/analysis/json/?uid=2233&my=fghklvwAFHLSTVZ348&url=",
-	"http://175.178.109.153:615//api/?key=IqnCJ3OxBDcJu0DyiI&url=",
-    "http://42.157.128.85:880/analysis/json/?uid=1735&my=chikuvwBCDEHIJOQS1&url="
+	"https://svip.spchat.top/api/?key=0XBkWjZGZ4KDrlZkHS&url="
   ],
   "contains": [
     "xueren",
