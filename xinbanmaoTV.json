@@ -2617,6 +2617,18 @@
             ]
         },
         {
+            "key": "唐人资源",
+            "name": "唐人资源",
+            "type": 1,
+            "api": "https://tangrenzyz.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 1,
+            "categories": [
+                
+            ]
+        },
+        {
             "key": "奈菲迷",
             "name": "奈菲迷",
             "type": 1,
