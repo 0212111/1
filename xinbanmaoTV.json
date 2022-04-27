@@ -2077,6 +2077,18 @@
             ]
         },
         {
+            "key": "首涂官采",
+            "name": "首涂官采",
+            "type": 1,
+            "api": "http://zy.ishoutu.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 1,
+            "categories": [
+                
+            ]
+        },
+        {
             "key": "极速蓝光",
             "name": "极速蓝光",
             "type": 1,
