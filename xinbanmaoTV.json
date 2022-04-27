@@ -2269,6 +2269,18 @@
             ]
         },
         {
+            "key": "FOX资源",
+            "name": "FOX资源",
+            "type": 1,
+            "api": "https://api.foxzyapi.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 1,
+            "categories": [
+                
+            ]
+        },
+        {
             "key": "量子资源",
             "name": "量子资源",
             "type": 1,
