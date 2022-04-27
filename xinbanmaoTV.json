@@ -3559,6 +3559,27 @@
             }
         },
         {
+            "name": "VIP影院",
+            "type": 1,
+            "url": "http://42.157.128.85:880/analysis/json/?uid=2233&my=cdeghlnqswxETUX356&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "youku",
+                    "优酷",
+                    "qiyi",
+                    "iqiyi",
+                    "爱奇艺",
+                    "奇艺"
+                ]
+            }
+        },
+        {
             "name": "看剧吧",
             "type": 1,
             "url": "https://openapi.973973.xyz/973/api/api_free.php?url=",
