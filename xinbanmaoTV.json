@@ -2257,6 +2257,18 @@
             ]
         },
         {
+            "key": "猫眼资源",
+            "name": "猫眼资源",
+            "type": 1,
+            "api": "http://maoyanapi.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 1,
+            "categories": [
+                
+            ]
+        },
+        {
             "key": "量子资源",
             "name": "量子资源",
             "type": 1,
