@@ -2119,6 +2119,18 @@
             ]
         },
         {
+            "key": "奥特曼资源",
+            "name": "奥特曼资源",
+            "type": 1,
+            "api": "https://aotemanzy.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 1,
+            "categories": [
+                
+            ]
+        },
+        {
             "key": "极速蓝光",
             "name": "极速蓝光",
             "type": 1,
