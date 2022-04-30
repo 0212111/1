@@ -231,6 +231,16 @@
             "ext": "http://6sys.xinluan.live/api.php/app/"
         },
         {
+            "key": "csp_appysv2_VIP影院",
+            "name": "VIP影院(海)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://360yy.cn/api.php/app/"
+        },
+        {
             "key": "csp_appysv2_极品影视",
             "name": "极品影视(海)",
             "type": 3,
