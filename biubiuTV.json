@@ -1,4 +1,5 @@
 {"zhuyejiekou": [
+{"name":"追剧TV","url":"http://111.229.120.180:88/lvdou_api.php/v2.vod"},
 {"name":"极品影视","url":"http://app.yhzy.xyz/lvdou_api.php/v1.vod"},
 {"name":"酷秒视界","url":"http://cms.kumiaotv.cn/api.php/v1.vod"},
 {"name":"独播社","url":"http://35ys.cc/api.php/v1.vod"},
@@ -37,7 +38,7 @@
 {"name":"F7高清","url":"http://bc.haokanju1.cc/lvdou_api.php/v1.vod"},
 {"name":"饭团","url":"http://television.wkfile.com/api.php/app/"},
 {"name":"益达","url":"http://luobu.yss6080.com/mogai_api.php/v1.vod"},
-{"name":"追剧吧","url":"http://zhuiju8.vip/api.php/v1.vod"},
+{"name":"追剧吧","url":"http://117.50.163.45:88/lvdou_api.php/v1.vod"},
 {"name":"快云影音","url":"https://www.kuaiyunyy.com/api.php/app/"},
 {"name":"4K","url":"http://1api.4kdytv.com/api.php/v1.vod"},
 {"name":"DC","url":"http://chaorenbb.com/api.php/v1.vod"},
