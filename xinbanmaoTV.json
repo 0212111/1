@@ -271,16 +271,6 @@
             "ext": "http://www.lltpys.com/api.php/app/"
         },
         {
-            "key": "csp_appysv2_ 追剧TV",
-            "name": "追剧TV(M2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://111.229.120.180:88/lvdou_api.php/v2.vod"
-        },
-        {
             "key": "csp_appysv2_ 酷秒视界",
             "name": "酷秒视界(M2)",
             "type": 3,
