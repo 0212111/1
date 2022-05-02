@@ -3671,6 +3671,27 @@
             }
         },
         {
+            "name": "毒舌解析",
+            "type": 1,
+            "url": "https://jf.96ym.cn/home/api?type=ys&uid=1319830&key=cefgnoprtvxyzBGKP6&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "youku",
+                    "优酷",
+                    "qiyi",
+                    "iqiyi",
+                    "爱奇艺",
+                    "奇艺"
+                ]
+            }
+        },
+        {
             "name": "老板解析",
             "type": 1,
             "url": "http://ck.laobandq.com/3515240842.php?pltfrom=1100&url=",
