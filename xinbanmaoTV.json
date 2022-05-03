@@ -2141,6 +2141,30 @@
             ]
         },
         {
+            "key": "雪人官采",
+            "name": "雪人官采",
+            "type": 1,
+            "api": "https://zl.chinafix.wang/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 1,
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "木子看剧",
+            "name": "木子看剧",
+            "type": 1,
+            "api": "https://mzkj.maccms.cf/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 1,
+            "categories": [
+                
+            ]
+        },
+        {
             "key": "极速蓝光",
             "name": "极速蓝光",
             "type": 1,
