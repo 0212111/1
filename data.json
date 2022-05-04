@@ -615,6 +615,7 @@
   "parseJson": [
 	"https://json.pangujiexi.com:12345/json.php?url=",
 	"https://jx1.7csn.cn/xiaotousiquanjia.php/?url=",
+	"https://www.daina.hk/api/?key=6X9nC4L6QK5ciquCTw&url=",
 	"https://svip.spchat.top/api/?key=0XBkWjZGZ4KDrlZkHS&url=",
 	"https://www.daina.hk/api/?key=6X9nC4L6QK5ciquCTw&url="
   ],
@@ -625,6 +626,7 @@
     "CL4K",
     "YYG",
     "renrenmi",
+    "cache.suoyo.cc",
     "youku",
     "qq",
     "letv",
