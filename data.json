@@ -612,7 +612,9 @@
   "parsePlayUrl": [
   ],
   "parseJson": [
-	"https://svip.spchat.top/api/?key=0XBkWjZGZ4KDrlZkHS&url="
+	"https://json.pangujiexi.com:12345/json.php?url=http",
+	"https://svip.spchat.top/api/?key=0XBkWjZGZ4KDrlZkHS&url=",
+	"https://www.daina.hk/api/?key=6X9nC4L6QK5ciquCTw&url="
   ],
   "contains": [
     "xueren",
