@@ -271,6 +271,16 @@
             "ext": "http://www.lltpys.com/api.php/app/"
         },
         {
+            "key": "csp_appysv2_ 69美剧",
+            "name": "69美剧(M2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.69mj.com/api.php/v1.vod"
+        },
+        {
             "key": "csp_appysv2_ 酷秒视界",
             "name": "酷秒视界(M2)",
             "type": 3,
