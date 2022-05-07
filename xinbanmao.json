@@ -3755,6 +3755,27 @@
             }
         },
         {
+            "name": "海星解析",
+            "type": 1,
+            "url": "http://110.42.2.115:880/analysis/json/?uid=1735&my=bejmpqvyDGHIJKU057&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "youku",
+                    "优酷",
+                    "qiyi",
+                    "iqiyi",
+                    "爱奇艺",
+                    "奇艺"
+                ]
+            }
+        },
+        {
             "name": "毒舌解析",
             "type": 1,
             "url": "https://jf.96ym.cn/home/api?type=ys&uid=1319830&key=cefgnoprtvxyzBGKP6&url=",
