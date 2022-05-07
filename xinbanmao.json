@@ -3776,9 +3776,9 @@
             }
         },
         {
-            "name": "5秒解析",
+            "name": "爱酷解析",
             "type": 1,
-            "url": "https://www.5s.cm/home/api?type=ys&uid=475934&key=anptvCDHLPTVXY1789&url=",
+            "url": "https://json.iku.cool/api/?key=bxbIQQIkaFZxOn4dHR&url=",
             "ext": {
                 "flag": [
                     "qq",
