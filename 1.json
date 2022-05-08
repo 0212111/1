@@ -70,7 +70,16 @@
             "key": "mjxq_spider",
             "searchable": 1
         },
-        {
+       {
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_PushAgent",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
             "key": "csp_xpath_348dy",
             "name": "348电影(XP)仅搜索",
             "type": 3,
