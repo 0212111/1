@@ -3776,6 +3776,16 @@
             }
         },
         {
+            "name": "躺平影视 龙腾",
+            "type": 1,
+            "url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
+            "ext": {
+                "flag": [
+                    "ltnb"
+                ]
+            }
+        },
+        {
             "name": "爱酷解析",
             "type": 1,
             "url": "https://json.iku.cool/api/?key=bxbIQQIkaFZxOn4dHR&url=",
