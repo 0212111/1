@@ -3755,27 +3755,6 @@
             }
         },
         {
-            "name": "海星解析",
-            "type": 1,
-            "url": "http://110.42.2.115:880/analysis/json/?uid=1735&my=hjklmsuwyzDGHIKXY3&url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "youku",
-                    "优酷",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺"
-                ]
-            }
-        },
-        {
             "name": "躺平影视 龙腾",
             "type": 1,
             "url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
