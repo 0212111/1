@@ -2909,10 +2909,10 @@
             ]
         },
         {
-            "key": "旧梦影视",
-            "name": "旧梦影视",
+            "key": "51看剧",
+            "name": "51看剧",
             "type": 1,
-            "api": "https://mac.qd234.cn/api.php/provide/vod/",
+            "api": "http://51kanju.cn/api.php/provide/vod/",
             "playUrl": "",
             "searchable": 1,
             "filterable": 1,
