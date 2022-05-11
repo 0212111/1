@@ -2225,6 +2225,18 @@
             ]
         },
         {
+            "key": "酷扑(人人迷)",
+            "name": "酷扑(人人迷)",
+            "type": 1,
+            "api": "https://www.kupu.cc/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 1,
+            "categories": [
+                
+            ]
+        },
+        {
             "key": "极速蓝光",
             "name": "极速蓝光",
             "type": 1,
