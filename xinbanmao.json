@@ -3776,6 +3776,31 @@
             }
         },
         {
+            "name": "300看世界",
+            "type": 1,
+            "url": "https://jiexi.300ys.xyz/json/jhjx.php/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ]
+            }
+        },
+        {
             "name": "戴拿解析",
             "type": 1,
             "url": "https://www.daina.hk/api/?key=RXpzyrbMFYySN0sNps&url=",
@@ -3829,22 +3854,6 @@
                     "iqiyi",
                     "爱奇艺",
                     "奇艺"
-                ]
-            }
-        },
-        {
-            "name": "300看世界",
-            "type": 1,
-            "url": "https://jiexi.300ys.xyz/json/jhjx.php/?url=",
-            "ext": {
-                "flag": [
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
                 ]
             }
         },
