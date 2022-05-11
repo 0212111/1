@@ -3147,6 +3147,54 @@
             ]
         },
         {
+            "key": "绿地影视",
+            "name": "绿地影视",
+            "type": 1,
+            "api": "https://v.lvdi.vip/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 1,
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "天天影视",
+            "name": "天天影视",
+            "type": 1,
+            "api": "http://tt2022.ga/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 1,
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "小猫咪",
+            "name": "小猫咪",
+            "type": 1,
+            "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 1,
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "随缘电影",
+            "name": "随缘电影",
+            "type": 1,
+            "api": "https://baobei666.com/inc/apijson_vod.php",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 1,
+            "categories": [
+                
+            ]
+        },
+        {
             "key": "飘零影院",
             "name": "飘零影院",
             "type": 1,
