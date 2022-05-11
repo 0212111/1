@@ -3833,9 +3833,9 @@
             }
         },
         {
-            "name": "300ys01",
+            "name": "300看世界",
             "type": 1,
-            "url": "https://jiexi.300ys.xyz/json/jianghujx.php/?url=",
+            "url": "https://jiexi.300ys.xyz/json/jhjx.php/?url=",
             "ext": {
                 "flag": [
                     "mgtv",
@@ -3845,24 +3845,6 @@
                     "bilibili",
                     "哔哩哔哩",
                     "哔哩"
-                ]
-            }
-        },
-        {
-            "name": "扶风解析",
-            "type": 1,
-            "url": "https://www.5s.cm/home/api?type=ys&uid=475934&key=anptvCDHLPTVXY1789&url=",
-            "ext": {
-                "flag": [
-                    "youku",
-                    "优酷",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "qq",
-                    "腾讯",
-                    "ltnb",
-                    "renrenmi"
                 ]
             }
         },
