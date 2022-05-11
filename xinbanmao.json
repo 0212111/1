@@ -2744,7 +2744,7 @@
             "key": "看看资源",
             "name": "看看资源",
             "type": 1,
-            "api": "https://zy.hikan.xyz/api.php/provide/vod",
+            "api": "https://zy.hikan.xyz/api.php/provide/vod/at/xml",
             "playUrl": "",
             "searchable": 1,
             "filterable": 1,
