@@ -2229,7 +2229,7 @@
             "name": "酷扑(人人迷)",
             "type": 1,
             "api": "https://www.kupu.cc/api.php/provide/vod/",
-            "playUrl": "",
+            "playUrl": "jsom:http://jiexi.mmhkj.xyz/home/api?type=ys&uid=4724728&key=bgjnsxyCDPRUWX3689&url=",
             "searchable": 1,
             "filterable": 1,
             "categories": [
