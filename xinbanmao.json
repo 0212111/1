@@ -3801,6 +3801,23 @@
             }
         },
         {
+            "name": "江湖1080直解",
+            "type": 1,
+            "url": "http://api.vip123kan.vip/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu"
+                ]
+            }
+        },
+        {
             "name": "戴拿解析",
             "type": 1,
             "url": "https://www.daina.hk/api/?key=RXpzyrbMFYySN0sNps&url=",
@@ -3911,41 +3928,6 @@
                     "芒果",
                     "letv",
                     "乐视"
-                ]
-            }
-        },
-        {
-            "name": "江湖1080直解",
-            "type": 1,
-            "url": "http://api.vip123kan.vip/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu"
-                ]
-            }
-        },
-        {
-            "name": "爱酷",
-            "type": 1,
-            "url": "https://json.iku.cool/api/?key=XJ97JaoJdQ71JxWr50&url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "xigua"
                 ]
             }
         },
