@@ -3890,9 +3890,9 @@
             }
         },
         {
-            "name": "戴拿解析",
+            "name": "飞云蓝光",
             "type": 1,
-            "url": "https://www.daina.hk/api/?key=RXpzyrbMFYySN0sNps&url=",
+            "url": "https://www.daina.hk/api/?key=8e8798udVRbaTbYYve&url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -3912,6 +3912,16 @@
                     "renrenmi",
                     "ltnb",
                     "xigua"
+                ]
+            }
+        },
+        {
+            "name": "飞云影视 龙腾",
+            "type": 1,
+            "url": "https://www.daina.hk/api/?key=8e8798udVRbaTbYYve&url=",
+            "ext": {
+                "flag": [
+                    "ltnb"
                 ]
             }
         },
