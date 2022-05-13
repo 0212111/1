@@ -3873,23 +3873,6 @@
             }
         },
         {
-            "name": "段友",
-            "type": 1,
-            "url": "http://cl.yjhan.com:8090/home/api?type=ys&uid=1253706&key=ahqswJKMOQSTVWX346&url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu"
-                ]
-            }
-        },
-        {
             "name": "飞云蓝光",
             "type": 1,
             "url": "https://www.daina.hk/api/?key=8e8798udVRbaTbYYve&url=",
