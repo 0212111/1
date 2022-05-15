@@ -72,7 +72,7 @@
         },
         {
             "key": "csp_xpath_saohuody",
-            "name": "骚火电影(XP)仅搜索",
+            "name": "骚火电影(XP)",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
