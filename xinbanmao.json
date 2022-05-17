@@ -3995,12 +3995,44 @@
             }
         },
         {
+            "name": "躺平影视",
+            "type": 1,
+            "url": "https://svip.iremind.me/api/?key=8FN8gNAySnvJiMllxZ&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果"
+                ]
+            }
+        },
+        {
             "name": "躺平影视 龙腾",
             "type": 1,
             "url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
             "ext": {
                 "flag": [
                     "ltnb"
+                ]
+            }
+        },
+        {
+            "name": "躺平影视 人人迷",
+            "type": 1,
+            "url": "http://xz.lltpys.com/indexyh.php?url=",
+            "ext": {
+                "flag": [
+                    "renrenmi"
                 ]
             }
         },
