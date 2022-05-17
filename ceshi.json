@@ -1,6 +1,6 @@
 
 "spider": "https://gitea.com/tjl/sp/raw/branch/master/sprider0506.jar",
-//"spider": "https://gitea.com/tjl/sp/raw/branch/master/t3_spider414.jar;md5;77f10dd5ece345547056e55892d670bb",
+//"spider": "https://gitea.com/tjl/sp/raw/branch/master/t3_spider414.jar;md5;77f10dd5ece345547056e55892d670bb"
     "sites": [
         {
             "ext": "http://inews.gtimg.com/newsapp_ls/0/14743078668/0",
