@@ -3944,6 +3944,44 @@
             }
         },
         {
+            "name": "群鑫影视",
+            "type": 1,
+            "url": "http://cl.yjhan.com:8090/home/api?type=ys&uid=651075&key=aehuDFGIJSVWX24589&url=",
+            "ext": {
+                "flag": [
+                    "youku",
+                    "优酷",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯"
+                ]
+            }
+        },
+        {
+            "name": "龙猫追剧",
+            "type": 1,
+            "url": "http://cl.yjhan.com:8090/home/api?type=ys&uid=1001253&key=adehloptyHJMNQTUVY&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "letv",
+                    "乐视",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ]
+            }
+        },
+        {
             "name": "躺平影视 龙腾",
             "type": 1,
             "url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
@@ -3992,44 +4030,6 @@
                     "iqiyi",
                     "爱奇艺",
                     "奇艺"
-                ]
-            }
-        },
-        {
-            "name": "飓风影视",
-            "type": 1,
-            "url": "https://vvip.funsline.cn/api/?key=MPbC1MDs0vP0cKKOoV&url=",
-            "ext": {
-                "flag": [
-                    "youku",
-                    "优酷",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "qq",
-                    "腾讯"
-                ]
-            }
-        },
-        {
-            "name": "麻瓜视频",
-            "type": 1,
-            "url": "http://103.40.246.5:6881/MmAI00o1yun218/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "letv",
-                    "乐视",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
                 ]
             }
         },
