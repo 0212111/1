@@ -4027,16 +4027,6 @@
             }
         },
         {
-            "name": "躺平影视 人人迷",
-            "type": 1,
-            "url": "http://xz.lltpys.com/indexyh.php?url=",
-            "ext": {
-                "flag": [
-                    "renrenmi"
-                ]
-            }
-        },
-        {
             "name": "爱酷解析",
             "type": 1,
             "url": "https://json.iku.cool/api/?key=bxbIQQIkaFZxOn4dHR&url=",
