@@ -3806,7 +3806,7 @@
     ],
     "parses": [
         {
-            "name": "Json轮询",
+            "name": "Json轮询（推荐）",
             "type": 2,
             "url": "Sequence"
         },
@@ -3970,6 +3970,25 @@
             }
         },
         {
+            "name": "hfyrw",
+            "type": 1,
+            "url": "https://json.hfyrw.com/mao.go?url=",
+            "ext": {
+                "flag": [
+                    "ltnb",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视"
+                ]
+            }
+        },
+        {
             "name": "爱酷解析",
             "type": 1,
             "url": "https://json.iku.cool/api/?key=bxbIQQIkaFZxOn4dHR&url=",
@@ -4003,25 +4022,6 @@
                     "奇艺",
                     "qq",
                     "腾讯"
-                ]
-            }
-        },
-        {
-            "name": "hfyrw",
-            "type": 1,
-            "url": "https://json.hfyrw.com/mao.go?url=",
-            "ext": {
-                "flag": [
-                    "ltnb",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视"
                 ]
             }
         },
