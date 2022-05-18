@@ -3970,6 +3970,27 @@
             }
         },
         {
+            "name": "爱酷解析",
+            "type": 1,
+            "url": "https://json.iku.cool/api/?key=bxbIQQIkaFZxOn4dHR&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "youku",
+                    "优酷",
+                    "qiyi",
+                    "iqiyi",
+                    "爱奇艺",
+                    "奇艺"
+                ]
+            }
+        },
+        {
             "name": "群鑫影视",
             "type": 1,
             "url": "http://cl.yjhan.com:8090/home/api?type=ys&uid=651075&key=aehuDFGIJSVWX24589&url=",
@@ -4055,27 +4076,6 @@
             "ext": {
                 "flag": [
                     "ltnb"
-                ]
-            }
-        },
-        {
-            "name": "爱酷解析",
-            "type": 1,
-            "url": "https://json.iku.cool/api/?key=bxbIQQIkaFZxOn4dHR&url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "youku",
-                    "优酷",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺"
                 ]
             }
         },
