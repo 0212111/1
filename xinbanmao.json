@@ -201,16 +201,6 @@
             "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/lezhutv.json"
         },
         {
-            "key": "csp_xpath_saohuotv",
-            "name": "骚火电影(XP)",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/saohuotv2.json"
-        },
-        {
             "key": "csp_xpath_zxzj",
             "name": "在线之家(XPMac)",
             "type": 3,
