@@ -72,7 +72,7 @@
         },
         {
             "key": "csp_xpath_jpys",
-            "name": "auete影院(XP)",
+            "name": "auete影视(XP)",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
