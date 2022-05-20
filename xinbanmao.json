@@ -71,7 +71,7 @@
             "searchable": 1
         },
         {
-            "key": "csp_xpath_jpys",
+            "key": "csp_xpath_yyds",
             "name": "YYDS网盘(XP)",
             "type": 3,
             "api": "csp_XPath",
