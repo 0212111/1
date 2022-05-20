@@ -71,16 +71,6 @@
             "searchable": 1
         },
         {
-            "key": "csp_xpath_yyds",
-            "name": "YYDS网盘(XP)",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/YYDS.json"
-        },
-        {
             "key": "csp_xpath_jpys",
             "name": "极品影视(XP)",
             "type": 3,
@@ -3849,7 +3839,7 @@
         {
             "name": "快云影音",
             "type": 1,
-            "url": "https://jhjx.kuanjv.com/newky/?url=",
+            "url": "https://openapi.973973.xyz/973/api/api_free.php?url=",
             "ext": {
                 "flag": [
                     "qq",
