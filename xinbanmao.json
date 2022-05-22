@@ -3861,36 +3861,6 @@
             }
         },
         {
-            "name": "白嫖解析",
-            "type": 1,
-            "url": "https://jx.hfyrw.com/mao.go?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "CL4K",
-                    "renrenmi",
-                    "ltnb",
-                    "xigua",
-                    "rongxing",
-                    "rx",
-                    "xfy",
-                    "xueren"
-                ]
-            }
-        },
-        {
             "name": "江湖1080（粉象）",
             "type": 1,
             "url": "http://api.vip123kan.vip/?url=",
@@ -4067,7 +4037,7 @@
         {
             "name": "爱酷解析",
             "type": 1,
-            "url": "https://json.iku.cool/api/?key=hVplvCggG0QbjIfy3M&url=",
+            "url": "https://json.iku.cool/api/?key=bcZxWfy3h241UpPSeq&url=h",
             "ext": {
                 "flag": [
                     "qq",
