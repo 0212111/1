@@ -4030,6 +4030,33 @@
             }
         },
         {
+            "name": "苍蓝解析（龙猫）",
+            "type": 1,
+            "url": "http://cl.yjhan.com:8090/home/api?type=ys&uid=1001253&key=adehloptyHJMNQTUVY&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "CL4K",
+                    "renrenmi",
+                    "ltnb",
+                    "xigua",
+                    "imgo"
+                ]
+            }
+        },
+        {
             "name": "VIP影院",
             "type": 1,
             "url": "http://110.42.2.115:880/analysis/json/?uid=2233&my=eginqstBCJMNSUX689&url=",
@@ -4241,33 +4268,6 @@
                     "iqiyi",
                     "爱奇艺",
                     "奇艺"
-                ]
-            }
-        },
-        {
-            "name": "苍蓝解析（龙猫）",
-            "type": 1,
-            "url": "http://cl.yjhan.com:8090/home/api?type=ys&uid=1001253&key=adehloptyHJMNQTUVY&url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "CL4K",
-                    "renrenmi",
-                    "ltnb",
-                    "xigua",
-                    "imgo"
                 ]
             }
         },
