@@ -3891,6 +3891,36 @@
             }
         },
         {
+            "name": "蓝影解析（极酷）",
+            "type": 1,
+            "url": "https://vip.nicefamily.club/api/?key=W3VmSonE0VCYTNmNyV&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "CL4K",
+                    "renrenmi",
+                    "ltnb",
+                    "xigua",
+                    "rongxing",
+                    "rx",
+                    "xfy",
+                    "xueren"
+                ]
+            }
+        },
+        {
             "name": "free",
             "type": 1,
             "url": "https://openapi.973973.xyz/973/api/api_free.php?url=",
