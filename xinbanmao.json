@@ -948,7 +948,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://aliyun.k8aa.com/mogai_api.php/v1.vod"
+            "ext": "http://toutiao.k8aa.com/mogai_api.php/v1.vod"
         },
         {
             "key": "csp_appys_美剧虫",
