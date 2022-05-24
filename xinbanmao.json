@@ -3901,36 +3901,6 @@
             }
         },
         {
-            "name": "云播解析（粉象）",
-            "type": 1,
-            "url": "http://175.24.234.182:88/api/?key=Yc7nQljMnjUE9t1h6g&url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "CL4K",
-                    "renrenmi",
-                    "ltnb",
-                    "xigua",
-                    "rongxing",
-                    "rx",
-                    "xfy",
-                    "xueren"
-                ]
-            }
-        },
-        {
             "name": "蓝影解析（极酷）",
             "type": 1,
             "url": "https://vip.nicefamily.club/api/?key=W3VmSonE0VCYTNmNyV&url=",
@@ -3991,7 +3961,7 @@
             }
         },
         {
-            "name": "free",
+            "name": "free（看剧吧）",
             "type": 1,
             "url": "https://openapi.973973.xyz/973/api/api_free.php?url=",
             "ext": {
@@ -4175,6 +4145,28 @@
             "name": "龙猫追剧",
             "type": 1,
             "url": "http://cl.yjhan.com:8090/home/api?type=ys&uid=1001253&key=adehloptyHJMNQTUVY&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "letv",
+                    "乐视",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ]
+            }
+        },
+        {
+            "name": "钟时解析",
+            "type": 1,
+            "url": "https://jx1.7csn.cn/lx4.php/?url=",
             "ext": {
                 "flag": [
                     "qq",
