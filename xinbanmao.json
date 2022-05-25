@@ -3845,32 +3845,6 @@
             }
         },
         {
-            "name": "快云影音",
-            "type": 1,
-            "url": "https://jhjx.kuanjv.com/newky/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "CL4K",
-                    "renrenmi",
-                    "ltnb",
-                    "xigua"
-                ]
-            }
-        },
-        {
             "name": "飞云蓝光",
             "type": 1,
             "url": "http://45.125.45.29:1688/api/?uid=10001&key=ImgXQyXCw425eWQ2iq&url=",
@@ -4030,6 +4004,62 @@
             }
         },
         {
+            "name": "新享解析（无尽）",
+            "type": 1,
+            "url": "https://one.qd234.cn/api/?key=tP8MTWZzft2P4Oevn9&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "CL4K",
+                    "renrenmi",
+                    "ltnb",
+                    "xigua",
+                    "rongxing",
+                    "rx",
+                    "xfy",
+                    "xueren"
+                ]
+            }
+        },
+        {
+            "name": "快云影音",
+            "type": 1,
+            "url": "https://jhjx.kuanjv.com/newky/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "CL4K",
+                    "renrenmi",
+                    "ltnb",
+                    "xigua"
+                ]
+            }
+        },
+        {
             "name": "300看世界",
             "type": 1,
             "url": "https://jiexi.300ys.xyz/json/jhjx.php/?url=",
@@ -4088,36 +4118,6 @@
             "name": "蓝影解析（极酷）",
             "type": 1,
             "url": "https://vip.nicefamily.club/api/?key=W3VmSonE0VCYTNmNyV&url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "CL4K",
-                    "renrenmi",
-                    "ltnb",
-                    "xigua",
-                    "rongxing",
-                    "rx",
-                    "xfy",
-                    "xueren"
-                ]
-            }
-        },
-        {
-            "name": "新享解析（无尽）",
-            "type": 1,
-            "url": "https://one.qd234.cn/api/?key=tP8MTWZzft2P4Oevn9&url=",
             "ext": {
                 "flag": [
                     "qq",
