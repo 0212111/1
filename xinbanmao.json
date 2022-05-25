@@ -4009,6 +4009,27 @@
             }
         },
         {
+            "name": "爱酷解析",
+            "type": 1,
+            "url": "https://json.iku.cool/api/?key=bcZxWfy3h241UpPSeq&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "youku",
+                    "优酷",
+                    "qiyi",
+                    "iqiyi",
+                    "爱奇艺",
+                    "奇艺"
+                ]
+            }
+        },
+        {
             "name": "300看世界",
             "type": 1,
             "url": "https://jiexi.300ys.xyz/json/jhjx.php/?url=",
@@ -4161,27 +4182,6 @@
                     "芒果",
                     "letv",
                     "乐视"
-                ]
-            }
-        },
-        {
-            "name": "爱酷解析",
-            "type": 1,
-            "url": "https://json.iku.cool/api/?key=bcZxWfy3h241UpPSeq&url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "youku",
-                    "优酷",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺"
                 ]
             }
         },
