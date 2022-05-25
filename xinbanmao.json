@@ -3845,6 +3845,27 @@
             }
         },
         {
+            "name": "VIP影院",
+            "type": 1,
+            "url": "http://110.42.2.115:880/analysis/json/?uid=2233&my=eginqstBCJMNSUX689&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "youku",
+                    "优酷",
+                    "qiyi",
+                    "iqiyi",
+                    "爱奇艺",
+                    "奇艺"
+                ]
+            }
+        },
+        {
             "name": "飞云蓝光",
             "type": 1,
             "url": "http://45.125.45.29:1688/api/?uid=10001&key=ImgXQyXCw425eWQ2iq&url=",
@@ -3871,27 +3892,6 @@
                     "rx",
                     "xfy",
                     "xueren"
-                ]
-            }
-        },
-        {
-            "name": "VIP影院",
-            "type": 1,
-            "url": "http://110.42.2.115:880/analysis/json/?uid=2233&my=eginqstBCJMNSUX689&url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "youku",
-                    "优酷",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺"
                 ]
             }
         },
