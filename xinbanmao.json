@@ -3845,6 +3845,27 @@
             }
         },
         {
+            "name": "飞捷",
+            "type": 1,
+            "url": "https://fjkkk.cn/toujiexisiquanjia.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "youku",
+                    "优酷",
+                    "qiyi",
+                    "iqiyi",
+                    "爱奇艺",
+                    "奇艺"
+                ]
+            }
+        },
+        {
             "name": "VIP影院",
             "type": 1,
             "url": "http://110.42.2.115:880/analysis/json/?uid=2233&my=eginqstBCJMNSUX689&url=",
