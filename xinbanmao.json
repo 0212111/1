@@ -71,14 +71,14 @@
             "searchable": 1
         },
         {
-            "key": "csp_xpath_jzyy",
-            "name": "九州影院(XP)",
+            "key": "csp_xpath_135kk",
+            "name": "135看看(XP)",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/jiuzhou.json"
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/135kk.json"
         },
         {
             "key": "csp_xpath_zbkyy",
