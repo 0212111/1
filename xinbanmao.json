@@ -71,14 +71,14 @@
             "searchable": 1
         },
         {
-            "key": "csp_xpath_yyds",
-            "name": "YYDS网盘(XP)",
+            "key": "csp_xpath_ssdy",
+            "name": "双十电影(XP)",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/YYDS.json"
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/1010.json"
         },
         {
             "key": "csp_xpath_135kk",
