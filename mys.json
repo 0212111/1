@@ -1,10 +1,10 @@
 {
     "sites": [
           { 
-            "key": "迪迪影院",
-            "name": "迪迪影院",
+            "key": "段友影视",
+            "name": "段友影视",
             "type": 1,
-            "api": "http://elm969qi08.youhui112.com/json.php?type=迪迪影院",
+            "api": "http://elm969qi08.youhui112.com/json.php?type=段友影视",
             "playUrl": ""
         },
         {
