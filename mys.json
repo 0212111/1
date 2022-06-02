@@ -4,7 +4,7 @@
             "key": "段友影视",
             "name": "段友影视",
             "type": 1,
-            "api": "http://elm969qi08.youhui112.com/json.php?type=段友影视",
+            "api": "http://elm969qi08.youhui112.com/app.php?type=段友影视",
             "playUrl": ""
         },
         {
