@@ -1,11 +1,16 @@
 {
     "sites": [
           { 
-            "key": "段友影视",
-            "name": "段友影视",
+            "key": "段友影视APP",
+            "name": "段友影视APP",
             "type": 1,
             "api": "http://elm969qi08.youhui112.com/app.php?type=段友影视",
-            "playUrl": ""
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 1,
+            "categories": [
+                
+            ]
         },
         {
             "key": "8090资源",
